@@ -18,12 +18,15 @@ package com.cyanogenmod.setupwizard.setup;
 
 import android.app.Fragment;
 import android.app.FragmentManager;
+import android.content.ComponentName;
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.ThemeUtils;
 import android.content.res.ThemeConfig;
 import android.content.res.ThemeManager;
 import android.hardware.CmHardwareManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.RemoteException;
 import android.preference.PreferenceManager;
@@ -39,9 +42,11 @@ import android.view.IWindowManager;
 import android.view.View;
 import android.view.WindowManagerGlobal;
 import android.widget.CheckBox;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.cyanogenmod.setupwizard.R;
+import com.cyanogenmod.setupwizard.SetupWizardApp;
 import com.cyanogenmod.setupwizard.cmstats.SetupStats;
 import com.cyanogenmod.setupwizard.ui.SetupPageFragment;
 import com.cyanogenmod.setupwizard.ui.WebViewDialogFragment;
@@ -211,6 +216,9 @@ public class CyanogenSettingsPage extends SetupPage {
 
     public static class CyanogenSettingsFragment extends SetupPageFragment {
 
+        private View mKillSwitchView;
+        private TextView mKillSwitchTitle;
+        private ImageView mKillSwitchStatus;
         private View mMetricsRow;
         private View mDefaultThemeRow;
         private View mNavKeysRow;
@@ -269,9 +277,13 @@ public class CyanogenSettingsPage extends SetupPage {
             ClickableSpan clickableSpan = new ClickableSpan() {
                 @Override
                 public void onClick(View textView) {
-                    WebViewDialogFragment.newInstance()
-                            .setUri(PRIVACY_POLICY_URI)
-                            .show(getActivity().getFragmentManager(), WebViewDialogFragment.TAG);
+                    final Intent intent = new Intent(SetupWizardApp.ACTION_VIEW_LEGAL);
+                    intent.setData(Uri.parse(PRIVACY_POLICY_URI));
+                    try {
+                        getActivity().startActivity(intent);
+                    } catch (Exception e) {
+                        Log.e(TAG, "Unable to start activity " + intent.toString(), e);
+                    }
                 }
             };
             ss.setSpan(clickableSpan,
@@ -280,6 +292,21 @@ public class CyanogenSettingsPage extends SetupPage {
             TextView privacyPolicy = (TextView) mRootView.findViewById(R.id.privacy_policy);
             privacyPolicy.setMovementMethod(LinkMovementMethod.getInstance());
             privacyPolicy.setText(ss);
+
+            mKillSwitchView = mRootView.findViewById(R.id.killswitch);
+            mKillSwitchTitle = (TextView)mRootView.findViewById(R.id.killswitch_title);
+            mKillSwitchStatus = (ImageView)mRootView.findViewById(R.id.killswitch_check);
+            if (hideKillSwitch()) {
+                mKillSwitchView.setVisibility(View.GONE);
+            } else {
+                if (SetupWizardUtils.isDeviceLocked()) {
+                    mKillSwitchTitle.setEnabled(true);
+                    mKillSwitchStatus.setImageResource(R.drawable.tick);
+                } else {
+                    mKillSwitchTitle.setEnabled(false);
+                    mKillSwitchStatus.setImageResource(R.drawable.cross);
+                }
+            }
 
             mMetricsRow = mRootView.findViewById(R.id.metrics);
             mMetricsRow.setOnClickListener(mMetricsClickListener);
@@ -407,6 +434,10 @@ public class CyanogenSettingsPage extends SetupPage {
                 myPageBundle.putBoolean(KEY_ENABLE_NAV_KEYS, checked);
             }
         }*/
+
+        private static boolean hideKillSwitch() {
+            return !SetupWizardUtils.hasKillSwitch();
+        }
 
     }
 }
