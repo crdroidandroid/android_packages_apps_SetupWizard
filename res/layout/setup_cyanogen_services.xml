@@ -2,6 +2,8 @@
 <!--
      Copyright (C) 2015 The CyanogenMod Project
 
+     Modified for crDroid Android Project
+
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -37,9 +39,9 @@
                 android:layout_height="match_parent"
                 style="@style/PageContent">
 
-                <!-- The caption about privacy policy -->
+                <!-- The caption about crDroid -->
                 <TextView
-                    android:id="@+id/privacy_policy"
+                    android:id="@+id/crdroid_community"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textSize="15sp"
@@ -47,7 +49,7 @@
                     android:paddingLeft="@dimen/content_margin_left"
                     android:paddingRight="@dimen/content_margin_right"
                     style="@style/PageSummaryText"
-                    android:text="@string/services_explanation"
+                    android:text="@string/general_explanation"
                     android:clickable="true"/>
 
                 <LinearLayout
@@ -99,42 +101,6 @@
                             android:textColor="?android:attr/textColorSecondary"
                             android:text="@string/setup_device_locked_instructions"/>
                     </RelativeLayout>
-
-                </LinearLayout>
-
-                <!-- Whether or not to enable metrics -->
-                <LinearLayout
-                    android:id="@+id/metrics"
-                    android:orientation="horizontal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="@dimen/location_margin_left"
-                    android:paddingRight="@dimen/content_margin_right"
-                    android:background="?android:attr/selectableItemBackground"
-                    android:clickable="true">
-
-
-                    <CheckBox
-                        android:id="@+id/enable_metrics_checkbox"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="top"
-                        android:layout_marginTop="5dp"
-                        android:duplicateParentState="true"
-                        android:clickable="false"/>
-
-                    <TextView
-                        android:id="@+id/enable_metrics_summary"
-                        android:layout_width="0px"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:textSize="15sp"
-                        android:lineSpacingExtra="@dimen/setup_line_spacing"
-                        android:gravity="top"
-                        android:layout_marginLeft="@dimen/location_text_margin_left"
-                        android:layout_marginRight="@dimen/location_text_margin_right"
-                        android:paddingBottom="@dimen/content_margin_bottom"
-                        android:text="@string/services_metrics_label"/>
 
                 </LinearLayout>
 
