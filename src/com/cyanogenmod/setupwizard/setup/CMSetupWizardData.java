@@ -112,7 +112,7 @@ public class CMSetupWizardData extends AbstractSetupData {
         GmsAccountPage gmsAccountPage =
                 (GmsAccountPage) getPage(GmsAccountPage.TAG);
         if (gmsAccountPage != null) {
-            gmsAccountPage.setHidden(!isConnected);
+            gmsAccountPage.setHidden(!isConnected && gmsAccountPage.canSkip());
         }
     }
 
