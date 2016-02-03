@@ -26,14 +26,13 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
-/*import android.content.pm.ThemeUtils;
+import android.content.pm.ThemeUtils;
 import android.content.res.ThemeConfig;
-import android.content.res.ThemeManager;*/
+import android.content.res.ThemeManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.RemoteException;
 import android.preference.PreferenceManager;
-import android.provider.Settings;
 import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.SpannableStringBuilder;
@@ -167,9 +166,10 @@ public class CyanogenSettingsPage extends SetupPage {
     }
 
     private void handleDefaultThemeSetup() {
-        /*Bundle privacyData = getData();
-        if (!ThemeUtils.getDefaultThemePackageName(mContext).equals(ThemeConfig.SYSTEM_DEFAULT) &&
-                privacyData != null && privacyData.getBoolean(KEY_APPLY_DEFAULT_THEME)) {
+        Bundle privacyData = getData();
+        if (!SetupWizardUtils.getDefaultThemePackageName(mContext).equals(
+                ThemeConfig.SYSTEM_DEFAULT) && privacyData != null &&
+                privacyData.getBoolean(KEY_APPLY_DEFAULT_THEME)) {
             SetupStats.addEvent(SetupStats.Categories.SETTING_CHANGED,
                     SetupStats.Action.APPLY_CUSTOM_THEME,
                     SetupStats.Label.CHECKED,
@@ -178,9 +178,9 @@ public class CyanogenSettingsPage extends SetupPage {
             final ThemeManager tm = (ThemeManager) mContext.getSystemService(Context.THEME_SERVICE);
             tm.applyDefaultTheme();
 
-        } else { */
+        } else {
             getCallbacks().finishSetup();
-        //}
+        }
     }
 
     private static boolean hideKeyDisabler(Context ctx) {
@@ -210,9 +210,10 @@ public class CyanogenSettingsPage extends SetupPage {
                 SetupWizardUtils.isSimMissing(context));
     }
 
-    /*private static boolean hideThemeSwitch(Context context) {
-        return ThemeUtils.getDefaultThemePackageName(context).equals(ThemeConfig.SYSTEM_DEFAULT);
-    }*/
+    private static boolean hideThemeSwitch(Context context) {
+        return SetupWizardUtils.getDefaultThemePackageName(context)
+                               .equals(ThemeConfig.SYSTEM_DEFAULT);
+    }
 
     public static class CyanogenSettingsFragment extends SetupPageFragment {
 
@@ -299,7 +300,7 @@ public class CyanogenSettingsPage extends SetupPage {
             }
 
             mDefaultThemeRow = mRootView.findViewById(R.id.theme);
-            mHideThemeRow = true; // hideThemeSwitch(getActivity());
+            mHideThemeRow = hideThemeSwitch(getActivity());
             if (mHideThemeRow) {
                 mDefaultThemeRow.setVisibility(View.GONE);
             } else {
