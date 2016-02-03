@@ -65,13 +65,10 @@ public class CyanogenSettingsPage extends SetupPage {
 
     public static final String TAG = "CyanogenSettingsPage";
 
-    public static final String KEY_REGISTER_WHISPERPUSH = "register";
     public static final String KEY_ENABLE_NAV_KEYS = "enable_nav_keys";
     public static final String KEY_APPLY_DEFAULT_THEME = "apply_default_theme";
 
     public static final String CRDROID_COMMUNITY_URI = "https://plus.google.com/communities/118297646046960923906?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome";
-
-    private static final String WHISPERPUSH_PACKAGE = "org.whispersystems.whisperpush";
 
     public CyanogenSettingsPage(Context context, SetupDataCallbacks callbacks) {
         super(context, callbacks);
@@ -147,22 +144,7 @@ public class CyanogenSettingsPage extends SetupPage {
                 }
             }
         });
-        handleWhisperPushRegistration();
         handleDefaultThemeSetup();
-    }
-
-    private void handleWhisperPushRegistration() {
-        Bundle privacyData = getData();
-        if (privacyData != null &&
-                privacyData.containsKey(KEY_REGISTER_WHISPERPUSH) &&
-                privacyData.getBoolean(KEY_REGISTER_WHISPERPUSH)) {
-            SetupStats.addEvent(SetupStats.Categories.SETTING_CHANGED,
-                    SetupStats.Action.USE_SECURE_SMS,
-                    SetupStats.Label.CHECKED,
-                    String.valueOf(privacyData.getBoolean(KEY_REGISTER_WHISPERPUSH)));
-            Log.i(TAG, "Registering with WhisperPush");
-            WhisperPushUtils.startRegistration(mContext);
-        }
     }
 
     private void handleDefaultThemeSetup() {
@@ -193,23 +175,6 @@ public class CyanogenSettingsPage extends SetupPage {
         return hardware.get(CMHardwareManager.FEATURE_KEY_DISABLE);
     }
 
-    private static boolean hideWhisperPush(Context context) {
-        final int playServicesAvailable = GooglePlayServicesUtil
-                .isGooglePlayServicesAvailable(context);
-        try {
-            PackageInfo pi = context.getPackageManager().getPackageInfo(WHISPERPUSH_PACKAGE, 0);
-            if (pi == null) {
-                return true;
-            }
-        } catch (PackageManager.NameNotFoundException e) {
-            return true;
-        }
-        return playServicesAvailable != ConnectionResult.SUCCESS
-                || !SetupWizardUtils.hasTelephony(context)
-                || (SetupWizardUtils.hasTelephony(context) &&
-                SetupWizardUtils.isSimMissing(context));
-    }
-
     private static boolean hideThemeSwitch(Context context) {
         return SetupWizardUtils.getDefaultThemePackageName(context)
                                .equals(ThemeConfig.SYSTEM_DEFAULT);
@@ -222,15 +187,11 @@ public class CyanogenSettingsPage extends SetupPage {
         private ImageView mKillSwitchStatus;
         private View mDefaultThemeRow;
         private View mNavKeysRow;
-        private View mSecureSmsRow;
         private CheckBox mDefaultTheme;
         private CheckBox mNavKeys;
-        private CheckBox mSecureSms;
 
         private boolean mHideNavKeysRow = false;
         private boolean mHideThemeRow = false;
-        private boolean mHideSmsRow = false;
-
 
         private View.OnClickListener mDefaultThemeClickListener = new View.OnClickListener() {
             @Override
@@ -247,15 +208,6 @@ public class CyanogenSettingsPage extends SetupPage {
                 boolean checked = !mNavKeys.isChecked();
                 mNavKeys.setChecked(checked);
                 mPage.getData().putBoolean(KEY_ENABLE_NAV_KEYS, checked);
-            }
-        };
-
-        private View.OnClickListener mSecureSmsClickListener = new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                boolean checked = !mSecureSms.isChecked();
-                mSecureSms.setChecked(checked);
-                mPage.getData().putBoolean(KEY_REGISTER_WHISPERPUSH, checked);
             }
         };
 
@@ -336,23 +288,6 @@ public class CyanogenSettingsPage extends SetupPage {
                         isKeyDisablerActive(getActivity());
                 mNavKeys.setChecked(navKeysDisabled);
             }
-
-            mSecureSmsRow = mRootView.findViewById(R.id.secure_sms);
-            mSecureSmsRow.setOnClickListener(mSecureSmsClickListener);
-            String useSecureSms = getString(R.string.services_use_secure_sms);
-            String secureSmsSummary = getString(R.string.services_secure_sms_label,
-                    useSecureSms, getString(R.string.os_name));
-            final SpannableStringBuilder secureSmsSpan =
-                    new SpannableStringBuilder(secureSmsSummary);
-            secureSmsSpan.setSpan(new android.text.style.StyleSpan(android.graphics.Typeface.BOLD),
-                    0, useSecureSms.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
-            TextView secureSms = (TextView) mRootView.findViewById(R.id.secure_sms_summary);
-            secureSms.setText(secureSmsSpan);
-            mHideSmsRow = hideWhisperPush(getActivity());
-            if (mHideSmsRow) {
-                mSecureSmsRow.setVisibility(View.GONE);
-            }
-            mSecureSms = (CheckBox) mRootView.findViewById(R.id.secure_sms_checkbox);
         }
 
         @Override
@@ -365,7 +300,6 @@ public class CyanogenSettingsPage extends SetupPage {
             super.onResume();
             /*updateDisableNavkeysOption();*/
             updateThemeOption();
-            updateSmsOption();
         }
 
         private void updateThemeOption() {
@@ -380,17 +314,6 @@ public class CyanogenSettingsPage extends SetupPage {
                 }
                 mDefaultTheme.setChecked(themesChecked);
                 myPageBundle.putBoolean(KEY_APPLY_DEFAULT_THEME, themesChecked);
-            }
-        }
-
-        private void updateSmsOption() {
-            if (!mHideSmsRow) {
-                final Bundle myPageBundle = mPage.getData();
-                boolean smsChecked = myPageBundle.containsKey(KEY_REGISTER_WHISPERPUSH) ?
-                        myPageBundle.getBoolean(KEY_REGISTER_WHISPERPUSH) :
-                        false;
-                mSecureSms.setChecked(smsChecked);
-                myPageBundle.putBoolean(KEY_REGISTER_WHISPERPUSH, smsChecked);
             }
         }
 
