@@ -37,18 +37,18 @@
   <string name="choose_data_sim_summary" product="tablet">Quina SIM vols utilitzar per a les dades? La SIM seleccionada pot provocar càrrecs per part de l\'operador ja que servirà per configurar la teva tauleta.</string>
   <string name="choose_data_sim_summary" product="default">Quina SIM vols utilitzar per a les dades? La SIM seleccionada pot provocar càrrecs per part de l\'operador ja que servirà per configurar el teu telèfon.</string>
   <string name="date_time_summary">Estableix el teu fus horari i ajusta la data i hora actual si és necessari</string>
-  <string name="backup_data_summary"><b>Fes una còpia de seguretat</b> de les dades de les app, contrasenyes Wi-Fi, i altres ajustaments als servidors de Google</string>
+  <string name="backup_data_summary"><b>Fes una còpia de seguretat</b> de les dades de les aplicacions, contrasenyes Wi-Fi, i altres ajustaments als servidors de Google</string>
   <string name="other_services_summary">Aquests serveis posen a Google a treballar per a tu, i pots activar-los o desactivar-los en qualsevol moment. Les dades s\'utilitzaran d\'acord amb la <xliff:g id="name" example="Privacy Policy">%s</xliff:g> de Google.</string>
   <string name="location_services_summary">Els serveis d\'ubicació permeten al sistema i a aplicacions de tercers recopilar i utilitzar dades com la teva ubicació aproximada. Per exemple, una aplicació pot utilitzar la teva ubicació aproximada per localitzar cafeteries als voltants.</string>
   <string name="location_access_summary"><b>Permet a les aplicacions que han demanat el teu permís</b> utilitzar la teva informació d\'ubicació. Això pot incloure la teva ubicació i ubicacions anteriors.</string>
   <string name="location_battery_saving"><b>Redueix el consum de bateria</b> restringint el número d\'actualitzacions GPS per hora.</string>
   <string name="location_network"><b>Utilitza Wi-Fi</b> per ajudar a les aplicacions a determinar la teva ubicació.</string>
-  <string name="location_network_telephony"><b>Utilitza Wi-Fi i les xarxes mòbils</b> per ajudar a les aplicacions a determinar la teva ubicació.</string>
+  <string name="location_network_telephony"><b>Utilitza el Wi-Fi i les xarxes mòbils</b> per ajudar a les aplicacions a determinar la teva ubicació.</string>
   <string name="location_network_gms"><b>Utilitza el servei d\'ubicació de Google</b> per ajudar a les aplicacions a determinar la teva ubicació. Això implica l\'enviament de dades anònimes d\'ubicació a Google, fins i tot quan no hi ha aplicacions en execució.</string>
-  <string name="setup_mobile_data">Activa les dades mòbils</string>
+  <string name="setup_mobile_data">Encén les dades mòbils</string>
   <string name="setup_mobile_data_no_service">Sense servei</string>
   <string name="setup_mobile_data_emergency_only">Només trucades d\'emergència</string>
-  <string name="enable_mobile_data_summary">Vols utilitzar les dades mòbils durant la configuració? Encendre les dades mòbils pot estar subjecte a càrrecs a la tarifa de dades.</string>
+  <string name="enable_mobile_data_summary">Vols utilitzar les dades mòbils durant la instal·lació? Encendre les dades mòbils pot provocar càrrecs de dades.</string>
   <string name="no">No</string>
   <string name="yes">Sí</string>
   <string name="data_sim_name">SIM <xliff:g id="sub">%d</xliff:g> - <xliff:g id="name">%s</xliff:g></string>
@@ -76,4 +76,5 @@
   <string name="fingerprint_setup_backup_lock_method">Configura el mètode de desbloqueig alternatiu</string>
   <string name="fingerprint_setup_add_fingerprint">Afegeix la teva empremta digital</string>
   <string name="fingerprint_setup_screen_lock_setup">Configuració del bloqueig de pantalla</string>
+  <string name="sim_locale_changed">%1$s SIM detectada</string>
 </resources>
