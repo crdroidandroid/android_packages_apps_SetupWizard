@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="setup_crdroid_services">crDroid 信息</string>
+
+    <string name="crdroid_community">crDroid Android Google Plus 社区</string>
+
+    <string name="general_explanation" product="tablet">您的crDroid Android ROM 安装基本要完成了！ 我们是一个主要基于CyanogenMod，并在其他优秀项目中择优选取的项目。这些优秀项目有SlimRoms，OmniRom，Paranoid Android，AICP，Dirty Unicorns，Euphoria-OS，Temasek等等。我们的目标是在保持所有CM特性的基础上，加入其他项目的优质代码。您或许可以因此而找到一个稳定无缺陷的ROM。如果您在任何情况下发现有BUG或者其他有缺陷的地方，请在我们的Google Plus 社区中告诉我们。安装步骤的最后一步，感谢您在您的平板电脑上安装crDroid。<xliff:g id="name" example="crDroid Android Google Plus 社区">%s</xliff:g>.</string>
+
+    <string name="general_explanation" product="default">您的crDroid Android ROM 安装基本要完成了！ 我们是一个主要基于CyanogenMod，并在其他优秀项目中择优选取的项目。这些优秀项目有SlimRoms，OmniRom，Paranoid Android，AICP，Dirty Unicorns，Euphoria-OS，Temasek等等。我们的目标是在保持所有CM特性的基础上，加入其他项目的优质代码。您或许可以因此而找到一个稳定无缺陷的ROM。如果您在任何情况下发现有BUG或者其他有缺陷的地方，请在我们的Google Plus 社区中告诉我们。安装步骤的最后一步，感谢您在您的手机上安装crDroid。 <xliff:g id="name" example="crDroid Android Google Plus 社区">%s</xliff:g>.</string>
+
+</resources>
