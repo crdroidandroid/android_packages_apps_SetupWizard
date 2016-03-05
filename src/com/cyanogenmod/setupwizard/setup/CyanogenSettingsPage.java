@@ -28,7 +28,6 @@ import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.content.pm.ThemeUtils;
 import android.content.res.ThemeConfig;
-import android.content.res.ThemeManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.RemoteException;
@@ -54,6 +53,7 @@ import com.cyanogenmod.setupwizard.ui.SetupPageFragment;
 import com.cyanogenmod.setupwizard.util.SetupWizardUtils;
 
 import cyanogenmod.providers.CMSettings;
+import cyanogenmod.themes.ThemeManager;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
@@ -156,7 +156,7 @@ public class CyanogenSettingsPage extends SetupPage {
                     SetupStats.Label.CHECKED,
                     String.valueOf(privacyData.getBoolean(KEY_APPLY_DEFAULT_THEME)));
             Log.i(TAG, "Applying default theme");
-            final ThemeManager tm = (ThemeManager) mContext.getSystemService(Context.THEME_SERVICE);
+            final ThemeManager tm = ThemeManager.getInstance();
             tm.applyDefaultTheme();
 
         } else {
