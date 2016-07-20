@@ -74,15 +74,7 @@ public class FinishPage extends SetupPage {
     public static class FinishFragment extends SetupPageFragment {
 
         @Override
-        protected void initializePage() {
-            final Activity activity = getActivity();
-            if (activity != null && SetupWizardUtils.canHasModMOD(activity)) {
-                ImageView imageView = (ImageView) mRootView.findViewById(R.id.brand_logo);
-                imageView.setImageResource(R.drawable.mod_ready);
-                mRootView.findViewById(R.id.mod_welcome).setVisibility(View.VISIBLE);
-                mRootView.findViewById(R.id.mod_desc).setVisibility(View.VISIBLE);
-            }
-        }
+        protected void initializePage() {}
 
         @Override
         protected int getLayoutResource() {
