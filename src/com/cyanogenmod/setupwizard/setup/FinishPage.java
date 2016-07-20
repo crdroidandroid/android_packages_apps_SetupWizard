@@ -21,11 +21,6 @@ import android.app.FragmentManager;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-<<<<<<< HEAD
-
-import com.cyanogenmod.setupwizard.R;
-import com.cyanogenmod.setupwizard.ui.SetupPageFragment;
-=======
 import android.os.Handler;
 import android.os.Message;
 import android.os.Messenger;
@@ -37,7 +32,6 @@ import com.cyanogenmod.setupwizard.R;
 import com.cyanogenmod.setupwizard.ui.SetupPageFragment;
 import com.cyanogenmod.setupwizard.ui.SetupWizardActivity;
 import com.cyanogenmod.setupwizard.util.SetupWizardUtils;
->>>>>>> cm/cm-13.0
 
 import java.lang.ref.WeakReference;
 
@@ -130,9 +124,6 @@ public class FinishPage extends SetupPage {
         private boolean mShowingModGuide;
 
         @Override
-<<<<<<< HEAD
-        protected void initializePage() {}
-=======
         protected void initializePage() {
             final Activity activity = getActivity();
             if (!mShowingModGuide || (activity == null)) {
@@ -156,7 +147,6 @@ public class FinishPage extends SetupPage {
                 }
             });
         }
->>>>>>> cm/cm-13.0
 
         @Override
         protected int getLayoutResource() {
