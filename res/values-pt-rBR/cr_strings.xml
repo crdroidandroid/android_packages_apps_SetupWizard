@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="setup_crdroid_services">Informações crDroid</string>
+
+    <string name="crdroid_community">Comunidade da crDroid no Google Plus</string>
+
+    <string name="general_explanation" product="tablet">Sua instalação da crDroid está quase pronta! Somos um projeto baseado principalmente na CyanogenMod com muitas funções de outros grandes projetos como SlimRoms, OmniRom, Paranoid Android, AICP, Dirty Unicorns, Euphoria-OS, Temasek e muitos outros. Nosso objetivo é manter todas as características de CM trabalhar com códigos úteis de grandes projetos. Você pode encontrar uma rom estável. Se em qualquer caso, você encontrar um bug ou um comportamento estranho, avise em nossa comunidade do Google Plus. Prossiga com as etapas finais de sua instalação e obrigado para instalar crDroid no seu tablet. <xliff:g id="name" example="Comunidade da crDroid no Google Plus">%s</xliff:g>.</string>
+
+    <string name="general_explanation" product="default">Sua instalação da crDroid está quase pronta! Somos um projeto baseado principalmente na CyanogenMod com muitas funções de outros grandes projetos como SlimRoms, OmniRom, Paranoid Android, AICP, Dirty Unicorns, Euphoria-OS, Temasek e muitos outros. Nosso objetivo é manter todas as características de CM trabalhar com códigos úteis de grandes projetos. Você pode encontrar uma rom estável. Se em qualquer caso, você encontrar um bug ou um comportamento estranho, avise em nossa comunidade do Google Plus. Prossiga com as etapas finais de sua instalação e obrigado para instalar crDroid no seu smartphone. <xliff:g id="name" example="Comunidade da crDroid no Google Plus">%s</xliff:g>.</string>
+
+</resources>
