@@ -51,12 +51,12 @@
     <string name="yes">Iawn</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Galwad brys</string>
-    <string name="setup_services">Nodweddion LineageOS</string>
-    <string name="services_explanation" product="tablet">Mae\'r nodweddion hyn yn gweithio er mwyn ymestyn galluoedd dy lechen. Caiff data ei ddefnyddio yn ôl <xliff:g id="name" example="Privacy Policy">%s</xliff:g> LineageOS.</string>
-    <string name="services_explanation" product="default">Mae\'r nodweddion hyn yn gweithio er mwyn ymestyn galluoedd dy ffôn. Caiff data ei ddefnyddio yn ôl <xliff:g id="name" example="Privacy Policy">%s</xliff:g> LineageOS.</string>
+    <string name="setup_services">Nodweddion crDroid</string>
+    <string name="services_explanation" product="tablet">Mae\'r nodweddion hyn yn gweithio er mwyn ymestyn galluoedd dy lechen. Caiff data ei ddefnyddio yn ôl <xliff:g id="name" example="Privacy Policy">%s</xliff:g> crDroid.</string>
+    <string name="services_explanation" product="default">Mae\'r nodweddion hyn yn gweithio er mwyn ymestyn galluoedd dy ffôn. Caiff data ei ddefnyddio yn ôl <xliff:g id="name" example="Privacy Policy">%s</xliff:g> crDroid.</string>
     <string name="services_privacy_policy">Polisi Preifatrwydd</string>
     <string name="services_help_improve_cm">Helpu i wella <xliff:g id="name" example="CyanogenMod">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve CyanogenMod">%1$s</xliff:g> gan anfon gwybodaeth ddiagnostig a defnydd data at LineageOS. Ni fydd yn bosib defnyddio\'r wybodaeth i dy adnabod di ac mi fydd o help mawr i\'r timau sy\'n gweithio ar bethau fel gwella perfformiad apiau a bywyd batri a chreu nodweddion newydd yn <xliff:g id="name" example="CyanogenMod">%2$s</xliff:g>.</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve CyanogenMod">%1$s</xliff:g> gan anfon gwybodaeth ddiagnostig a defnydd data at crDroid. Ni fydd yn bosib defnyddio\'r wybodaeth i dy adnabod di ac mi fydd o help mawr i\'r timau sy\'n gweithio ar bethau fel gwella perfformiad apiau a bywyd batri a chreu nodweddion newydd yn <xliff:g id="name" example="CyanogenMod">%2$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Defnyddio bysellau llywio ar y sgrin</b> yn hytrach na botymau\'r ddyfais.</string>
     <string name="setup_unlock">Datgloi</string>
     <string name="setup_device_locked">Mae\'r ddyfais hon wedi ei chloi gan y defnyddiwr.</string>
@@ -80,7 +80,7 @@
     <string name="lockscreen_setup_summary"><b>Diogela\'r ddyfais hon</b> gan osod PIN, patrwm, neu gyfrinair er mwyn datgloi\'r sgrin.</string>
     <string name="lockscreen_setup_screen_lock_setup">Gosod</string>
     <string name="intro_restore_title">Adfer apiau a data</string>
-    <string name="intro_restore_subtitle" product="tablet">Os oes gennyt gopi data wrth gefn o dy lechen LineageOS diwethaf, gellir ei adfer yma.</string>
-    <string name="intro_restore_subtitle" product="default">Os oes gennyt gopi data wrth gefn o dy ffôn LineageOS diwethaf, gellir ei adfer yma.</string>
+    <string name="intro_restore_subtitle" product="tablet">Os oes gennyt gopi data wrth gefn o dy lechen crDroid diwethaf, gellir ei adfer yma.</string>
+    <string name="intro_restore_subtitle" product="default">Os oes gennyt gopi data wrth gefn o dy ffôn crDroid diwethaf, gellir ei adfer yma.</string>
     <string name="intro_restore_button">Adfer o gopi wrth gefn</string>
 </resources>
