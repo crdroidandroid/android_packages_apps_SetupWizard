@@ -52,9 +52,9 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Thirrje emergjente</string>
     <string name="accessibility_settings">Cilësimet e aksesueshmërisë</string>
-    <string name="setup_services">Funksionet e LineageOS</string>
-    <string name="services_help_improve_cm">Ndihmo në përmirësimin e <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> duke dërguar automatikisht të dhëna diagnostikuese si dhe përdorimin tek LineageOS. Ky informacion nuk do të përdoret për identifikimin tënd por i jep një dorë ekipeve të përmirësojnë gjëra si jetëgjatësinë e baterisë, performancën e app, dhe funksionet e reja të <xliff:g id="name" example="LineageOS">%2$s</xliff:g>.</string>
+    <string name="setup_services">Funksionet e crDroid</string>
+    <string name="services_help_improve_cm">Ndihmo në përmirësimin e <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> duke dërguar automatikisht të dhëna diagnostikuese si dhe përdorimin tek crDroid. Ky informacion nuk do të përdoret për identifikimin tënd por i jep një dorë ekipeve të përmirësojnë gjëra si jetëgjatësinë e baterisë, performancën e app, dhe funksionet e reja të <xliff:g id="name" example="crDroid">%2$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Përdor butonat virtualë të lundrimit</b> në vend të butonave fizikë.</string>
     <string name="setup_unlock">Zhblloko</string>
     <string name="setup_device_locked">Kjo pajisje është bllokuar nga përdoruesi.</string>
@@ -78,8 +78,8 @@
     <string name="lockscreen_setup_summary"><b>Mbro këtë pajisje</b> dhe vendos një PIN, model, ose fjalëkalim për të zhbllokuar ekranin</string>
     <string name="lockscreen_setup_screen_lock_setup">Konfiguro</string>
     <string name="intro_restore_title">Rikthe aplikacionet dhe të dhënat</string>
-    <string name="intro_restore_subtitle" product="tablet">Nëse keni një kopje rezervë nga tableti juaj i fundit LineageOS, mund ta ktheni këtu.</string>
-    <string name="intro_restore_subtitle" product="default">Nëse keni një kopje rezervë nga tableti juaj i fundit LineageOS, mund ta ktheni këtu</string>
+    <string name="intro_restore_subtitle" product="tablet">Nëse keni një kopje rezervë nga tableti juaj i fundit crDroid, mund ta ktheni këtu.</string>
+    <string name="intro_restore_subtitle" product="default">Nëse keni një kopje rezervë nga tableti juaj i fundit crDroid, mund ta ktheni këtu</string>
     <string name="intro_restore_button">Rimerr nga kopja rezervë</string>
     <string name="update_recovery_title">Përditësoni rikuperimin e Lineage</string>
     <string name="update_recovery_description">Përditëson Rikuperimin e Lineage në boot-in e parë pas çdo azhornimi.</string>

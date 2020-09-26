@@ -51,9 +51,9 @@
     <string name="yes">نعم</string>
     <string name="data_sim_name">شريحة <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">مكالمة طوارئ</string>
-    <string name="setup_services">ميزات LineageOS</string>
-    <string name="services_help_improve_cm">ساهم في تحسين <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> بإرسال بيانات التشخيص و الاستعمال تلقائيا إلى LineageOS. لا يمكن استعمال هذه المعلومات لتحديد هويتك، لكنها تساعد الفرق المكلفة بـ: عمر البطارية، أداء التطبيقات، و مزايا <xliff:g id="name" example="LineageOS">%2$s</xliff:g> الجديدة.</string>
+    <string name="setup_services">ميزات crDroid</string>
+    <string name="services_help_improve_cm">ساهم في تحسين <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> بإرسال بيانات التشخيص و الاستعمال تلقائيا إلى crDroid. لا يمكن استعمال هذه المعلومات لتحديد هويتك، لكنها تساعد الفرق المكلفة بـ: عمر البطارية، أداء التطبيقات، و مزايا <xliff:g id="name" example="crDroid">%2$s</xliff:g> الجديدة.</string>
     <string name="services_os_nav_keys_label"><b>استخدام مفاتيح التنقل على الشاشة</b> بدلاً من مفاتيح الأجهزة.</string>
     <string name="setup_unlock">فتح القفل</string>
     <string name="setup_device_locked">هذا الجهاز تم قفله من قبل المستخدم.</string>
@@ -77,8 +77,8 @@
     <string name="lockscreen_setup_summary"><b>حماية هذا الجهاز</b> وطلب رقم تعريف شخصي أو نمط أو كلمة مرور لإلغاء قفل الشاشة.</string>
     <string name="lockscreen_setup_screen_lock_setup">إعداد</string>
     <string name="intro_restore_title">استعادة التطبيقات والبيانات</string>
-    <string name="intro_restore_subtitle" product="tablet">إذا كان لديك نسخة احتياطية من آخر جهاز لوحي بنظام LineageOS، يمكنك استعادتها هنا.</string>
-    <string name="intro_restore_subtitle" product="default">إذا كان لديك نسخة احتياطية من آخر هاتف بنظام LineageOS، يمكنك استعادتها هنا.</string>
+    <string name="intro_restore_subtitle" product="tablet">إذا كان لديك نسخة احتياطية من آخر جهاز لوحي بنظام crDroid، يمكنك استعادتها هنا.</string>
+    <string name="intro_restore_subtitle" product="default">إذا كان لديك نسخة احتياطية من آخر هاتف بنظام crDroid، يمكنك استعادتها هنا.</string>
     <string name="intro_restore_button">استعادة من نسخة احتياطية</string>
     <string name="update_recovery_title">تحديث وضع الاسترداد (recovery)</string>
     <string name="update_recovery_description">تحديث Lineage Recovery عند أول تشغيل بعد كل تحديث.</string>
