@@ -24,7 +24,7 @@
     <string name="ok">D\'acuerdu</string>
     <string name="loading">Un segundín\u2026</string>
     <string name="setup_welcome">Afáyate</string>
-    <string name="setup_welcome_message">Afáyate en <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Afáyate en <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="setup_locale">Llingua</string>
     <string name="setup_sim_missing">Falta la tarxeta SIM</string>
     <string name="setup_location">Servicios de llocalización</string>
@@ -43,11 +43,11 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Llamada d\'emerxencia</string>
     <string name="accessibility_settings">Axustes de l\'accesibilidá</string>
-    <string name="setup_services">Funciones de LineageOS</string>
-    <string name="services_pp_explanation">Estos servicios funcionen p\'aumentar les funciones del preséu. Los datos van usase d\'acuerdu cola política de privacidá de <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_services">Funciones de crDroid</string>
+    <string name="services_pp_explanation">Estos servicios funcionen p\'aumentar les funciones del preséu. Los datos van usase d\'acuerdu cola política de privacidá de <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="services_find_privacy_policy">Pues lleer la política de privacidá n\'otru preséu pente la visita a <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Ayudar a ameyorar <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> pente l\'unviu los datos de diagnósticu y d\'usu a <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Esta información nun se pue usar pa identificate mas val p\'agabitar a los desendolcadores pa que trabayen en coses como la duración de la batería, el rindimientu de les aplicaciones y les funciones nueves de <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_help_improve_cm">Ayudar a ameyorar <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> pente l\'unviu los datos de diagnósticu y d\'usu a <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Esta información nun se pue usar pa identificate mas val p\'agabitar a los desendolcadores pa que trabayen en coses como la duración de la batería, el rindimientu de les aplicaciones y les funciones nueves de <xliff:g id="name" example="crDroid">%3$s</xliff:g>.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="settings_biometric_setup_details">¿Cómo quies bloquiar la pantalla?</string>
     <string name="fingerprint_setup_title">Configuración de buelgues</string>
@@ -64,12 +64,12 @@
     <string name="lockscreen_setup_summary"><b>Protexi esti preséu</b> y riqui un PIN, una contraseña o un patrón pa desbloquiar la pantalla</string>
     <string name="lockscreen_setup_screen_lock_setup">Configurar</string>
     <string name="intro_restore_title">Restauración d\'aplicaciones y datos</string>
-    <string name="intro_restore_subtitle" product="tablet">Si tienes dalguna copia de seguranza de <xliff:g id="name" example="LineageOS">%s</xliff:g> pa la tableta, pues restaurala equí.</string>
-    <string name="intro_restore_subtitle" product="default">Si tienes dalguna copia de seguranza de <xliff:g id="name" example="LineageOS">%s</xliff:g> pal teléfonu, pues restaurala equí.</string>
+    <string name="intro_restore_subtitle" product="tablet">Si tienes dalguna copia de seguranza de <xliff:g id="name" example="crDroid">%s</xliff:g> pa la tableta, pues restaurala equí.</string>
+    <string name="intro_restore_subtitle" product="default">Si tienes dalguna copia de seguranza de <xliff:g id="name" example="crDroid">%s</xliff:g> pal teléfonu, pues restaurala equí.</string>
     <string name="update_recovery_title">Anovar el recovery de Lineage</string>
     <string name="update_recovery_description">Anueva\'l recovery de Lineage nel primer arrinque de cada anovamientu.</string>
     <string name="update_recovery_warning">El recovery anuévase namás que fine la configuración. Si nun lu quies tocar, desactiva esta función.</string>
-    <string name="update_recovery_setting">Anovar el recovery xunto con LineageOS</string>
+    <string name="update_recovery_setting">Anovar el recovery xunto con crDroid</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navegación</string>
     <string name="navigation_summary">Escueyi\'l métodu de navegación preferíu</string>
