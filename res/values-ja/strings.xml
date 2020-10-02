@@ -51,12 +51,12 @@
     <string name="yes">はい</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">緊急通報</string>
-    <string name="setup_services">LineageOS の機能</string>
-    <string name="services_explanation" product="tablet">これらのサービスは端末の機能を拡張するために動作します。データは LineageOS の<xliff:g id="name" example="Privacy Policy">%s</xliff:g>に従って使用されます。</string>
-    <string name="services_explanation" product="default">これらのサービスは端末の機能を拡張するために動作します。データは LineageOS の<xliff:g id="name" example="Privacy Policy">%s</xliff:g>に従って使用されます。</string>
+    <string name="setup_services">crDroid の機能</string>
+    <string name="services_explanation" product="tablet">これらのサービスは端末の機能を拡張するために動作します。データは crDroid の<xliff:g id="name" example="Privacy Policy">%s</xliff:g>に従って使用されます。</string>
+    <string name="services_explanation" product="default">これらのサービスは端末の機能を拡張するために動作します。データは crDroid の<xliff:g id="name" example="Privacy Policy">%s</xliff:g>に従って使用されます。</string>
     <string name="services_privacy_policy">プライバシーポリシー</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>の改善に協力します</string>
-    <string name="services_metrics_label">診断と使用状況データを自動的に LineageOS に送信して、<xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>。この情報は個人を特定するために使用されることはなく、電池持ち、アプリのパフォーマンス、<xliff:g id="name" example="LineageOS">%2$s</xliff:g>の新機能などへの取り組みに活用されます。</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="crDroid">%s</xliff:g>の改善に協力します</string>
+    <string name="services_metrics_label">診断と使用状況データを自動的に crDroid に送信して、<xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g>。この情報は個人を特定するために使用されることはなく、電池持ち、アプリのパフォーマンス、<xliff:g id="name" example="crDroid">%2$s</xliff:g>の新機能などへの取り組みに活用されます。</string>
     <string name="services_os_nav_keys_label">ハードウェアキーのかわりに<b>スクリーンナビゲーションキーを使用します</b>。</string>
     <string name="setup_unlock">ロック解除</string>
     <string name="setup_device_locked">この端末はユーザーによってロックされています。</string>
@@ -80,7 +80,7 @@
     <string name="lockscreen_setup_summary"><b>この端末を保護</b>し、画面のロック解除にPIN、パターン、またはパスワードを必要とする</string>
     <string name="lockscreen_setup_screen_lock_setup">セットアップ</string>
     <string name="intro_restore_title">アプリとデータを復元</string>
-    <string name="intro_restore_subtitle" product="tablet">以前の LineageOS タブレットからのバックアップがある場合は、こちらから復元できます。</string>
-    <string name="intro_restore_subtitle" product="default">以前の LineageOS スマートフォンからのバックアップがある場合は、こちらから復元できます。</string>
+    <string name="intro_restore_subtitle" product="tablet">以前の crDroid タブレットからのバックアップがある場合は、こちらから復元できます。</string>
+    <string name="intro_restore_subtitle" product="default">以前の crDroid スマートフォンからのバックアップがある場合は、こちらから復元できます。</string>
     <string name="intro_restore_button">バックアップから復元</string>
 </resources>
