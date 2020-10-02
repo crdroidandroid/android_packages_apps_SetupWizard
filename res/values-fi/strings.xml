@@ -51,12 +51,12 @@
     <string name="yes">Kyllä</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Hätäpuhelu</string>
-    <string name="setup_services">LineageOS-ominaisuudet</string>
-    <string name="services_explanation" product="tablet">Nämä palvelut toimivat tablettisi ominaisuuksien parantamiseksi. Tietoja käytetään LineageOS:n <xliff:g id="name" example="Privacy Policy">%s</xliff:g> mukaisesti.</string>
-    <string name="services_explanation" product="default">Nämä palvelut toimivat puhelimesi ominaisuuksien parantamiseksi. Tietoja käytetään LineageOS:n <xliff:g id="name" example="Privacy Policy">%s</xliff:g> mukaisesti.</string>
+    <string name="setup_services">crDroid-ominaisuudet</string>
+    <string name="services_explanation" product="tablet">Nämä palvelut toimivat tablettisi ominaisuuksien parantamiseksi. Tietoja käytetään crDroid:n <xliff:g id="name" example="Privacy Policy">%s</xliff:g> mukaisesti.</string>
+    <string name="services_explanation" product="default">Nämä palvelut toimivat puhelimesi ominaisuuksien parantamiseksi. Tietoja käytetään crDroid:n <xliff:g id="name" example="Privacy Policy">%s</xliff:g> mukaisesti.</string>
     <string name="services_privacy_policy">Tietosuojakäytännön</string>
-    <string name="services_help_improve_cm">Auta parantamaan <xliff:g id="name" example="LineageOS">%s</xliff:g>ia</string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> lähettämällä vianmääritys- ja käyttötietoja LineageOS:lle. Tietoja ei voi käyttää tunnistamiseen. Tiedot auttavat kehittäjiä muun muassa parantamaan akun kestoa, sovellusten suorituskykyä ja kehittämään <xliff:g id="name" example="LineageOS">%2$s</xliff:g>:iin uusia ominaisuuksia.</string>
+    <string name="services_help_improve_cm">Auta parantamaan <xliff:g id="name" example="crDroid">%s</xliff:g>ia</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> lähettämällä vianmääritys- ja käyttötietoja crDroid:lle. Tietoja ei voi käyttää tunnistamiseen. Tiedot auttavat kehittäjiä muun muassa parantamaan akun kestoa, sovellusten suorituskykyä ja kehittämään <xliff:g id="name" example="crDroid">%2$s</xliff:g>:iin uusia ominaisuuksia.</string>
     <string name="services_os_nav_keys_label"><b>Käytä näytön navigointipalkkia</b> fyysisten näppäinten sijaan.</string>
     <string name="setup_unlock">Avaa lukitus</string>
     <string name="setup_device_locked">Käyttäjä on lukinnut laitteen.</string>
@@ -80,7 +80,7 @@
     <string name="lockscreen_setup_summary"><b>Suojaa laitetta</b> avaamalla näytön lukitus PIN-koodin, kuvion tai salasanan avulla</string>
     <string name="lockscreen_setup_screen_lock_setup">Asetusten määritys</string>
     <string name="intro_restore_title">Palauta sovellukset ja tiedot</string>
-    <string name="intro_restore_subtitle" product="tablet">Jos sinulla on varmuuskopio aiemmasta LineageOS-tabletista, voit palauttaa sen tässä.</string>
-    <string name="intro_restore_subtitle" product="default">Jos sinulla on varmuuskopio aiemmasta LineageOS-puhelimesta, voit palauttaa sen tässä.</string>
+    <string name="intro_restore_subtitle" product="tablet">Jos sinulla on varmuuskopio aiemmasta crDroid-tabletista, voit palauttaa sen tässä.</string>
+    <string name="intro_restore_subtitle" product="default">Jos sinulla on varmuuskopio aiemmasta crDroid-puhelimesta, voit palauttaa sen tässä.</string>
     <string name="intro_restore_button">Palauta varmuuskopiosta</string>
 </resources>

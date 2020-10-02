@@ -48,8 +48,8 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Hädaabinumbril helistamine</string>
     <string name="services_privacy_policy">Privaatsuspoliitika</string>
-    <string name="services_help_improve_cm">Aita parendada <xliff:g id="name" example="LineageOS">%s</xliff:g>i</string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> saates meile automatselt diagnostikat ja kasutusandmeid. Seda teavet ei saa kasutada sinu tuvastamiseks ning see aitab arendajatel muuhulgas parandada aku eluiga, rakenduste jõudlust ning arendada uusi <xliff:g id="name" example="LineageOS">%2$s</xliff:g>i võimalusi.</string>
+    <string name="services_help_improve_cm">Aita parendada <xliff:g id="name" example="crDroid">%s</xliff:g>i</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> saates meile automatselt diagnostikat ja kasutusandmeid. Seda teavet ei saa kasutada sinu tuvastamiseks ning see aitab arendajatel muuhulgas parandada aku eluiga, rakenduste jõudlust ning arendada uusi <xliff:g id="name" example="crDroid">%2$s</xliff:g>i võimalusi.</string>
     <string name="services_os_nav_keys_label"><b>Kasuta ekraanil olevaid navigeerimisklahve</b> riistvaraliste nuppude asemel.</string>
     <string name="setup_unlock">Ava lukustus</string>
     <string name="setup_device_locked">Seade on kasutaja poolt lukustatud.</string>
@@ -66,7 +66,7 @@
     <string name="biometric_setup_screen_lock_setup">Ekraaniluku seadistamine</string>
     <string name="settings_lockscreen_setup_details">Kuidas soovite ekraani lukustada?</string>
     <string name="intro_restore_title">Taasta rakendused ja andmed</string>
-    <string name="intro_restore_subtitle" product="tablet">Kui sul on viimase LineageOSi tahvelarvuti varundus olemas, saad selle siin taastada.</string>
-    <string name="intro_restore_subtitle" product="default">Kui sul on viimase LineageOSi telefoni varundus olemas, saad selle siin taastada.</string>
+    <string name="intro_restore_subtitle" product="tablet">Kui sul on viimase crDroidi tahvelarvuti varundus olemas, saad selle siin taastada.</string>
+    <string name="intro_restore_subtitle" product="default">Kui sul on viimase crDroidi telefoni varundus olemas, saad selle siin taastada.</string>
     <string name="intro_restore_button">Taasta varundusest</string>
 </resources>
