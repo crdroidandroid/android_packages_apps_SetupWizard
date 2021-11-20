@@ -44,7 +44,7 @@
     <string name="yes">Jah</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Hädaabinumbril helistamine</string>
-    <string name="services_help_improve_cm">Aita parendada <xliff:g id="name" example="LineageOS">%s</xliff:g>i</string>
+    <string name="services_help_improve_cm">Aita parendada <xliff:g id="name" example="crDroid">%s</xliff:g>i</string>
     <string name="services_os_nav_keys_label"><b>Kasuta ekraanil olevaid navigeerimisklahve</b> riistvaraliste nuppude asemel.</string>
     <string name="settings_biometric_setup_title">Valige alternatiivne ekraani luku tüüp</string>
     <string name="settings_biometric_setup_details">Kuidas soovite ekraani lukustada?</string>

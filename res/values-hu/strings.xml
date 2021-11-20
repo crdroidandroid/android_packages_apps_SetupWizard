@@ -49,10 +49,10 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Segélyhívás</string>
     <string name="accessibility_settings">Kisegítő beállítások</string>
-    <string name="setup_services">LineageOS újítások</string>
-    <string name="services_pp_explanation">Ezek a szolgáltatások Önért dolgoznak, hogy kibővítsék telefonja képességeit. Az adatok felhasználása a <xliff:g id="name" example="LineageOS">%1$s</xliff:g> adatvédelmi szabályzata alapján történik.</string>
+    <string name="setup_services">crDroid újítások</string>
+    <string name="services_pp_explanation">Ezek a szolgáltatások Önért dolgoznak, hogy kibővítsék telefonja képességeit. Az adatok felhasználása a <xliff:g id="name" example="crDroid">%1$s</xliff:g> adatvédelmi szabályzata alapján történik.</string>
     <string name="services_find_privacy_policy">Elolvashatja az adatvédelmi szabályokat, ha megnyitja a következő weboldalt <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>, segítsen a fejlesztésében</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="crDroid">%s</xliff:g>, segítsen a fejlesztésében</string>
     <string name="services_os_nav_keys_label"><b>A képernyő navigációs gombjainak használata</b> a hardveres gombok helyett.</string>
     <string name="settings_biometric_setup_title">Válasszon másodlagos feloldási módot</string>
     <string name="settings_biometric_setup_details">Hogyan szeretné zárolni a képernyőt?</string>

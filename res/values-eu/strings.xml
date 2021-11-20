@@ -47,8 +47,8 @@
     <string name="no">Ez</string>
     <string name="yes">Bai</string>
     <string name="emergency_call">Larrialdi deia</string>
-    <string name="setup_services">LineageOS ezaugarriak</string>
-    <string name="services_help_improve_cm">Lagundu <xliff:g id="name" example="LineageOS">%s</xliff:g> hobetzen</string>
+    <string name="setup_services">crDroid ezaugarriak</string>
+    <string name="services_help_improve_cm">Lagundu <xliff:g id="name" example="crDroid">%s</xliff:g> hobetzen</string>
     <string name="services_os_nav_keys_label"><b>Erabili pantailako nabigazio teklak</b> hardware teklen ordez.</string>
     <string name="settings_biometric_setup_title">Aukeratu ordezko pantaila blokeo mota</string>
     <string name="settings_biometric_setup_details">Nola blokeatu nahi duzu pantaila?</string>

@@ -49,10 +49,10 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Fövqəladə vəziyyət zəngləri</string>
     <string name="accessibility_settings">Əlçatımlılıq tənzimləmələri</string>
-    <string name="setup_services">LineageOS özəllikləri</string>
-    <string name="services_pp_explanation">Bu xidmətlər cihazınızın imkanlarını artırır. Verilənlər, <xliff:g id="name" example="LineageOS">%1$s</xliff:g>un gizlilik siyasətinə uyğun olaraq istifadə ediləcək.</string>
+    <string name="setup_services">crDroid özəllikləri</string>
+    <string name="services_pp_explanation">Bu xidmətlər cihazınızın imkanlarını artırır. Verilənlər, <xliff:g id="name" example="crDroid">%1$s</xliff:g>un gizlilik siyasətinə uyğun olaraq istifadə ediləcək.</string>
     <string name="services_find_privacy_policy">Gizlilik siyasətini fərqli cihazda <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> ünvanını ziyarət edərək oxuya bilərsiniz</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="crDroid">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
     <string name="services_os_nav_keys_label"><b>Avadanlıq düymələri əvəzinə ekran üstü hərəkət düymələrindən istifadə edin.</b></string>
     <string name="settings_biometric_setup_title">Ehtiyat ekran kilidi növünü seçin</string>
     <string name="settings_biometric_setup_details">Ekranınızı necə kilidləmək istərdiniz?</string>

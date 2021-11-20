@@ -49,8 +49,8 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Emergency call</string>
     <string name="accessibility_settings">Accessibility settings</string>
-    <string name="setup_services">LineageOS features</string>
-    <string name="services_help_improve_cm">Help improve <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="setup_services">crDroid features</string>
+    <string name="services_help_improve_cm">Help improve <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Use on screen navigation keys</b> instead of hardware keys.</string>
     <string name="settings_biometric_setup_title">Select backup screen lock type</string>
     <string name="settings_biometric_setup_details">How would you like to lock your screen?</string>
