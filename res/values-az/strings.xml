@@ -51,9 +51,9 @@
     <string name="yes">Bəli</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Fövqəladə vəziyyət zəngləri</string>
-    <string name="setup_services">LineageOS özəllikləri</string>
+    <string name="setup_services">crDroid özəllikləri</string>
     <string name="services_privacy_policy">Gizlilik Siyasəti</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="crDroid">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
     <string name="services_os_nav_keys_label"><b>Avadanlıq düymələri əvəzinə ekran üstü hərəkət düymələrindən istifadə edin.</b></string>
     <string name="setup_unlock">Kilidi aç</string>
     <string name="setup_device_locked">Bu cihaz istifadəçisi tərəfindən kilidlənib.</string>
@@ -77,8 +77,8 @@
     <string name="lockscreen_setup_summary"><b>Bu cihazı qoruyun</b> və ekran kilidini açmaq üçün PIN, forma və ya şifrəni tələb edin</string>
     <string name="lockscreen_setup_screen_lock_setup">Qur</string>
     <string name="intro_restore_title">Tətbiq və verilənləri bərpa edin</string>
-    <string name="intro_restore_subtitle" product="tablet">Son LineageOS planşetinizdən bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
-    <string name="intro_restore_subtitle" product="default">Son LineageOS telefonunuzdan bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
+    <string name="intro_restore_subtitle" product="tablet">Son crDroid planşetinizdən bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
+    <string name="intro_restore_subtitle" product="default">Son crDroid telefonunuzdan bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
     <string name="intro_restore_button">Nüsxədən bərpa et</string>
     <string name="update_recovery_title">Lineage Bərpa Rejimini Yenilə</string>
     <string name="update_recovery_description">Hər yeniləmədən sonrakı ilk açılışda Lineage Bərpa rejimini yeniləyər.</string>

@@ -50,9 +50,9 @@
     <string name="no">Nej</string>
     <string name="yes">Ja</string>
     <string name="emergency_call">Nødopkald</string>
-    <string name="setup_services">LineageOS-funktioner</string>
+    <string name="setup_services">crDroid-funktioner</string>
     <string name="services_privacy_policy">Privatlivspolitik</string>
-    <string name="services_help_improve_cm">Hjælp med at forbedre <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_help_improve_cm">Hjælp med at forbedre <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Brug navigationstaster på skærm</b> i stedet for fysiske-taster.</string>
     <string name="setup_unlock">Lås op</string>
     <string name="setup_device_locked">Denne enhed er blevet låst af brugeren.</string>

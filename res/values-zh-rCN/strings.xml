@@ -51,9 +51,9 @@
     <string name="yes">是</string>
     <string name="data_sim_name">SIM卡<xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">紧急电话</string>
-    <string name="setup_services">LineageOS 功能</string>
+    <string name="setup_services">crDroid 功能</string>
     <string name="services_privacy_policy">隐私政策</string>
-    <string name="services_help_improve_cm">帮助改进 <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_help_improve_cm">帮助改进 <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>使用虚拟导航键</b>替代实体按键。</string>
     <string name="setup_unlock">解锁</string>
     <string name="setup_device_locked">此设备的持有者锁定了该设备。</string>
@@ -77,8 +77,8 @@
     <string name="lockscreen_setup_summary"><b>为此设备启用保护功能</b>，并要求输入 PIN 码、图案或密码才能解锁屏幕</string>
     <string name="lockscreen_setup_screen_lock_setup">设置</string>
     <string name="intro_restore_title">恢复应用和数据</string>
-    <string name="intro_restore_subtitle" product="tablet">如果你有来自你上一台 LineageOS 平板的备份，你可以在这里还原它。</string>
-    <string name="intro_restore_subtitle" product="default">如果你有来自你上一台 LineageOS 手机的备份，你可以在这里还原它。</string>
+    <string name="intro_restore_subtitle" product="tablet">如果你有来自你上一台 crDroid 平板的备份，你可以在这里还原它。</string>
+    <string name="intro_restore_subtitle" product="default">如果你有来自你上一台 crDroid 手机的备份，你可以在这里还原它。</string>
     <string name="intro_restore_button">从备份中还原</string>
     <string name="update_recovery_title">更新 Lineage 恢复</string>
     <string name="update_recovery_description">每次更新后在第一次启动时更新 Lineage 恢复。</string>

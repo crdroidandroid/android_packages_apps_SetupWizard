@@ -50,9 +50,9 @@
     <string name="no">Không</string>
     <string name="yes">Có</string>
     <string name="emergency_call">Cuộc gọi khẩn cấp</string>
-    <string name="setup_services">Các tính năng LineageOS</string>
+    <string name="setup_services">Các tính năng crDroid</string>
     <string name="services_privacy_policy">Chính sách về quyền riêng tư</string>
-    <string name="services_help_improve_cm">Giúp cải thiện <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_help_improve_cm">Giúp cải thiện <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Sử dụng các phím điều hướng trên màn hình</b> thay cho các phím cứng.</string>
     <string name="setup_unlock">Mở khóa</string>
     <string name="setup_device_locked">Thiết bị này đã bị khoá bởi người dùng.</string>

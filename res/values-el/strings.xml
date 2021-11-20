@@ -51,9 +51,9 @@
     <string name="yes">Ναι</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Κλήση έκτακτης ανάγκης</string>
-    <string name="setup_services">Χαρακτηριστικά LineageOS</string>
+    <string name="setup_services">Χαρακτηριστικά crDroid</string>
     <string name="services_privacy_policy">Πολιτική απορρήτου</string>
-    <string name="services_help_improve_cm">Βοηθήστε στη βελτίωση του <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_help_improve_cm">Βοηθήστε στη βελτίωση του <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Κάντε χρήση των πλήκτρων πλοήγησης της οθόνης</b> αντί των φυσικών πλήκτρων.</string>
     <string name="setup_unlock">Ξεκλείδωμα</string>
     <string name="setup_device_locked">Αυτή η συσκευή έχει κλειδωθεί από το χρήστη.</string>
@@ -77,8 +77,8 @@
     <string name="lockscreen_setup_summary"><b>Προστατέψτε αυτήν τη συσκευή</b> και ζητήστε ένα PIN, ένα μοτίβο ή έναν κωδικό πρόσβασης για να ξεκλειδώσετε την οθόνη</string>
     <string name="lockscreen_setup_screen_lock_setup">Ρύθμιση</string>
     <string name="intro_restore_title">Επαναφορά εφαρμογών και δεδομένων</string>
-    <string name="intro_restore_subtitle" product="tablet">Εάν έχετε αντίγραφο ασφαλείας από το τελευταίο LineageOS tablet σας, μπορείτε να το επαναφέρετε εδώ.</string>
-    <string name="intro_restore_subtitle" product="default">Εάν έχετε αντίγραφο ασφαλείας από το τελευταίο LineageOS τηλέφωνό σας, μπορείτε να το επαναφέρετε εδώ.</string>
+    <string name="intro_restore_subtitle" product="tablet">Εάν έχετε αντίγραφο ασφαλείας από το τελευταίο crDroid tablet σας, μπορείτε να το επαναφέρετε εδώ.</string>
+    <string name="intro_restore_subtitle" product="default">Εάν έχετε αντίγραφο ασφαλείας από το τελευταίο crDroid τηλέφωνό σας, μπορείτε να το επαναφέρετε εδώ.</string>
     <string name="intro_restore_button">Επαναφορά από αντίγραφο ασφαλείας</string>
     <string name="update_recovery_title">Ενημέρωση Lineage Recovery</string>
     <string name="update_recovery_description">Ενημέρωση της Lineage Recovery στην πρώτη εκκίνηση μετά από κάθε ενημέρωση.</string>
