@@ -49,8 +49,8 @@
     <string name="data_sim_name">ซิม <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">โทรฉุกเฉิน</string>
     <string name="accessibility_settings">การตั้งค่าการเข้าถึง</string>
-    <string name="setup_services">คุณสมบัติ LineageOS</string>
-    <string name="services_help_improve_cm">ช่วยปรับปรุง <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="setup_services">คุณสมบัติ crDroid</string>
+    <string name="services_help_improve_cm">ช่วยปรับปรุง <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>ใช้แถบนำทาง</b> แทนการใช้ปุ่มบนอุปกรณ์</string>
     <string name="settings_biometric_setup_title">เลือกประเภทการล็อคหน้าจอสำรอง</string>
     <string name="settings_biometric_setup_details">คุณต้องการล็อคหน้าจอด้วยวิธีใด</string>

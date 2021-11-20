@@ -43,10 +43,10 @@
     <string name="yes">হ্যাঁ</string>
     <string name="data_sim_name">সিম <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">জরুরী কল</string>
-    <string name="setup_services">LineageOS এর বৈশিষ্ট্যসমূহ</string>
+    <string name="setup_services">crDroid এর বৈশিষ্ট্যসমূহ</string>
     <string name="lockscreen_setup_screen_lock_setup">সেট আপ করুন</string>
-    <string name="intro_restore_subtitle" product="tablet">আপনার যদি পুরানো <xliff:g id="name" example="LineageOS">%s</xliff:g> ট্যাবলেট এর কোনো ব্যাকআপ থাকে, আপনি তা এখানে রিস্টোর করতে পারেন।</string>
-    <string name="intro_restore_subtitle" product="default">আপনার যদি পুরানো <xliff:g id="name" example="LineageOS">%s</xliff:g> ফোন এর কোনো ব্যাকআপ থাকে তাহলে আপনি তা রিস্টোর করতে পারেন</string>
+    <string name="intro_restore_subtitle" product="tablet">আপনার যদি পুরানো <xliff:g id="name" example="crDroid">%s</xliff:g> ট্যাবলেট এর কোনো ব্যাকআপ থাকে, আপনি তা এখানে রিস্টোর করতে পারেন।</string>
+    <string name="intro_restore_subtitle" product="default">আপনার যদি পুরানো <xliff:g id="name" example="crDroid">%s</xliff:g> ফোন এর কোনো ব্যাকআপ থাকে তাহলে আপনি তা রিস্টোর করতে পারেন</string>
     <string name="update_recovery_title">লিনিয়েজ রিকভারি আপডেট করুন</string>
     <string name="update_recovery_description">প্রতিবার আপডেট সম্পন্ন হওয়ার পর প্রথম বুটে লিনিয়েজ রিকভারি আপডেট করে</string>
     <string name="update_recovery_warning">সেটআপটি সম্পন্ন করার সাথে সাথে রিকভারি আপডেট হয়ে যাবে। আপনি যদি রিকভারি আপডেট করতে না চান, এই ফিচারটি অক্ষম করুন।</string>
