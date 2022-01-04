@@ -81,7 +81,7 @@
     <string name="intro_restore_subtitle" product="default">Če imate varnostno kopijo iz vašega zadnjega crDroid telefona, jo lahko obnovite tukaj.</string>
     <string name="intro_restore_button">Obnovi iz varnostne kopije</string>
     <string name="update_recovery_title">Posodobi obnovitev Lineage</string>
-    <string name="update_recovery_description">Posodobi obnovitev Lineage ob prvem zagonu vsake posodobitve.</string>
+    <string name="update_recovery_description">Posodobi obnovitev crDroid ob prvem zagonu vsake posodobitve.</string>
     <string name="update_recovery_warning">Obnovitev bo posodobljena takoj, ko zaključite namestitev. Če jo želite ohraniti nedotaknjeno, onemogočite to značilnost.</string>
-    <string name="update_recovery_setting">Posodobi obnovitev Lineage poleg OS-a</string>
+    <string name="update_recovery_setting">Posodobi obnovitev crDroid poleg OS-a</string>
 </resources>

@@ -81,7 +81,7 @@
     <string name="intro_restore_subtitle" product="default">Se tiver uma cópia de segurança do seu anterior telefone com crDroid, pode restaurá-la aqui.</string>
     <string name="intro_restore_button">Restaurar a partir de cópia de segurança</string>
     <string name="update_recovery_title">Atualizar a recuperação Lineage</string>
-    <string name="update_recovery_description">Atualiza a recuperação Lineage na primeira inicialização subsequente a cada atualização.</string>
+    <string name="update_recovery_description">Atualiza a recuperação crDroid na primeira inicialização subsequente a cada atualização.</string>
     <string name="update_recovery_warning">A recuperação será atualizada assim que terminar a configuração. Se desejar mantê-la intacta, desative esta opção.</string>
-    <string name="update_recovery_setting">Atualizar a recuperação Lineage aquando a atualização do SO</string>
+    <string name="update_recovery_setting">Atualizar a recuperação crDroid aquando a atualização do SO</string>
 </resources>

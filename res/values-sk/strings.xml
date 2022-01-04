@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">Ak máte zálohu zo svojho predošlého tabletu s crDroid, môžete ju obnoviť tu.</string>
     <string name="intro_restore_subtitle" product="default">Ak máte zálohu zo svojho predošlého telefónu s crDroid, môžete ju obnoviť tu.</string>
     <string name="intro_restore_button">Obnoviť zo záloh</string>
-    <string name="update_recovery_title">Aktualizovať Lineage recovery</string>
-    <string name="update_recovery_description">Aktualizovať Lineage recovery pri prvom spustení po každej aktualizácii</string>
+    <string name="update_recovery_title">Aktualizovať crDroid recovery</string>
+    <string name="update_recovery_description">Aktualizovať crDroid recovery pri prvom spustení po každej aktualizácii</string>
     <string name="update_recovery_warning">Oddiel recovery bude aktualizovaný ihneď potom, ako dokončíte nastavenie. Vypnite túto funkciu, ak si prajete ponechať oddiel nezmenený.</string>
-    <string name="update_recovery_setting">Aktualizovať Lineage recovery spoločne s OS</string>
+    <string name="update_recovery_setting">Aktualizovať crDroid recovery spoločne s OS</string>
 </resources>

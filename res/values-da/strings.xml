@@ -71,8 +71,8 @@
     <string name="lockscreen_setup_title" product="default">Beskyt din telefon</string>
     <string name="lockscreen_setup_summary"><b>Beskyt denne enhed</b>, og kræv en PIN, et mønster, eller en adgangskode, for at låse skærmen op</string>
     <string name="lockscreen_setup_screen_lock_setup">Opsætning</string>
-    <string name="update_recovery_title">Opdater Lineage Genddanelse</string>
-    <string name="update_recovery_description">Opdateringer Lineage Recovery ved første opstart efter hver opdatering.</string>
+    <string name="update_recovery_title">Opdater crDroid Genddanelse</string>
+    <string name="update_recovery_description">Opdateringer crDroid Recovery ved første opstart efter hver opdatering.</string>
     <string name="update_recovery_warning">Gendannelse vil blive opdateret, så snart du er færdig med opsætningen. Hvis du ønsker at holde det intakt, skal du deaktivere denne funktion.</string>
-    <string name="update_recovery_setting">Opdater Lineage Recovery sammen med OS</string>
+    <string name="update_recovery_setting">Opdater crDroid Recovery sammen med OS</string>
 </resources>

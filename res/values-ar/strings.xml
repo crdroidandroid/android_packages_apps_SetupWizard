@@ -81,7 +81,7 @@
     <string name="intro_restore_subtitle" product="default">إذا كان لديك نسخة احتياطية من آخر هاتف بنظام crDroid، يمكنك استعادتها هنا.</string>
     <string name="intro_restore_button">استعادة من نسخة احتياطية</string>
     <string name="update_recovery_title">تحديث وضع الاسترداد (recovery)</string>
-    <string name="update_recovery_description">تحديث Lineage Recovery عند أول تشغيل بعد كل تحديث.</string>
+    <string name="update_recovery_description">تحديث crDroid Recovery عند أول تشغيل بعد كل تحديث.</string>
     <string name="update_recovery_warning">سيُحدث وضع الاسترداد بمجرد الانتهاء من الإعداد. إذا كنت ترغب في الحفاظ على وضع الاسترداد الحالي، قم بتعطيل هذه الميزة.</string>
-    <string name="update_recovery_setting">تحديث Lineage Recovery إلى جانب نظام التشغيل</string>
+    <string name="update_recovery_setting">تحديث crDroid Recovery إلى جانب نظام التشغيل</string>
 </resources>

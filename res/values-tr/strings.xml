@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">Son crDroid tabletinizden bir yedeğiniz varsa, onu buradan geri yükleyebilirsiniz.</string>
     <string name="intro_restore_subtitle" product="default">Son crDroid telefonunuzdan bir yedeğiniz varsa, onu buradan geri yükleyebilirsiniz.</string>
     <string name="intro_restore_button">Yedekten geri yükle</string>
-    <string name="update_recovery_title">Lineage Kurtarma Modunu Güncelle</string>
-    <string name="update_recovery_description">Her güncellemeden sonraki ilk açılışta Lineage Kurtarma Modunu günceller.</string>
+    <string name="update_recovery_title">crDroid Kurtarma Modunu Güncelle</string>
+    <string name="update_recovery_description">Her güncellemeden sonraki ilk açılışta crDroid Kurtarma Modunu günceller.</string>
     <string name="update_recovery_warning">Kurulum tamamlanır tamamlanmaz kurtarma modu güncellenecektir. Olduğu gibi kalmasını istiyorsanız, bu özelliği devre dışı bırakın.</string>
-    <string name="update_recovery_setting">İşletim Sistemi ile birlikte Lineage Kurtarma Modunu güncelleyin</string>
+    <string name="update_recovery_setting">İşletim Sistemi ile birlikte crDroid Kurtarma Modunu güncelleyin</string>
 </resources>

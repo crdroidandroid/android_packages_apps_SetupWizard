@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">Son crDroid planşetinizdən bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
     <string name="intro_restore_subtitle" product="default">Son crDroid telefonunuzdan bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
     <string name="intro_restore_button">Nüsxədən bərpa et</string>
-    <string name="update_recovery_title">Lineage Bərpa Rejimini Yenilə</string>
-    <string name="update_recovery_description">Hər yeniləmədən sonrakı ilk açılışda Lineage Bərpa rejimini yeniləyər.</string>
+    <string name="update_recovery_title">crDroid Bərpa Rejimini Yenilə</string>
+    <string name="update_recovery_description">Hər yeniləmədən sonrakı ilk açılışda crDroid Bərpa rejimini yeniləyər.</string>
     <string name="update_recovery_warning">Quraşdırma bitən kimi Bərpa rejimi yeniləcək. Sağlam qalmasını istəyirsinizsə, bu özəlliyi sıradan çıxardın.</string>
-    <string name="update_recovery_setting">ƏS ilə birgə Lineage Bərpa rejimini də yeniləyin</string>
+    <string name="update_recovery_setting">ƏS ilə birgə crDroid Bərpa rejimini də yeniləyin</string>
 </resources>

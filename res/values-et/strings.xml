@@ -68,6 +68,6 @@
     <string name="intro_restore_subtitle" product="tablet">Kui sul on viimase crDroidi tahvelarvuti varundus olemas, saad selle siin taastada.</string>
     <string name="intro_restore_subtitle" product="default">Kui sul on viimase crDroidi telefoni varundus olemas, saad selle siin taastada.</string>
     <string name="intro_restore_button">Taasta varundusest</string>
-    <string name="update_recovery_title">Uuenda Lineage Recoveryt</string>
-    <string name="update_recovery_setting">Uuenda Lineage Recoveryt koos OSiga</string>
+    <string name="update_recovery_title">Uuenda crDroid Recoveryt</string>
+    <string name="update_recovery_setting">Uuenda crDroid Recoveryt koos OSiga</string>
 </resources>

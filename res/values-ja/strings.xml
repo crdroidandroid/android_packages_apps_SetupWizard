@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">以前の crDroid タブレットからのバックアップがある場合は、こちらから復元できます。</string>
     <string name="intro_restore_subtitle" product="default">以前の crDroid スマートフォンからのバックアップがある場合は、こちらから復元できます。</string>
     <string name="intro_restore_button">バックアップから復元</string>
-    <string name="update_recovery_title">Lineage Recovery をアップデート</string>
-    <string name="update_recovery_description">毎回のアップデートの最初の起動時に Lineage Recovery をアップデートします</string>
+    <string name="update_recovery_title">crDroid Recovery をアップデート</string>
+    <string name="update_recovery_description">毎回のアップデートの最初の起動時に crDroid Recovery をアップデートします</string>
     <string name="update_recovery_warning">設定が完了したらすぐにリカバリーがアップデートされます。そのまま維持したい場合は、この機能を無効にしてください。</string>
-    <string name="update_recovery_setting">OS と一緒に Lineage Recovery をアップデートする</string>
+    <string name="update_recovery_setting">OS と一緒に crDroid Recovery をアップデートする</string>
 </resources>

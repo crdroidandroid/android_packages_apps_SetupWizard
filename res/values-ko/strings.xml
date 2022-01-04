@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">이전 crDroid 태블릿에서 했던 백업을 가지고 있다면 여기에서 복원할 수 있습니다.</string>
     <string name="intro_restore_subtitle" product="default">이전 crDroid 휴대전화에서 했던 백업을 가지고 있다면 여기에서 복원할 수 있습니다.</string>
     <string name="intro_restore_button">백업에서 복원</string>
-    <string name="update_recovery_title">Lineage 복구 모드 업데이트</string>
-    <string name="update_recovery_description">매 업데이트 적용 후 첫 부팅 시 Lineage 복구 모드를 업데이트합니다.</string>
+    <string name="update_recovery_title">crDroid 복구 모드 업데이트</string>
+    <string name="update_recovery_description">매 업데이트 적용 후 첫 부팅 시 crDroid 복구 모드를 업데이트합니다.</string>
     <string name="update_recovery_warning">설정을 마치면 복구 모드를 즉시 업데이트합니다. 원치 않는 경우 이 기능을 비활성화하세요.</string>
-    <string name="update_recovery_setting">OS와 함께 Lineage 복구 모드 업데이트</string>
+    <string name="update_recovery_setting">OS와 함께 crDroid 복구 모드 업데이트</string>
 </resources>

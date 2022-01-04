@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">如果您有上一個 crDroid 平板電腦的備份，可以在這裡恢復它。</string>
     <string name="intro_restore_subtitle" product="default">如果您有上一個 crDroid 平板電腦的備份，可以在這裡恢復它。</string>
     <string name="intro_restore_button">從備份還原</string>
-    <string name="update_recovery_title">更新 Lineage Recovery</string>
-    <string name="update_recovery_description">每次更新後，在第一次啟動時更新 Lineage Recovery。</string>
+    <string name="update_recovery_title">更新 crDroid Recovery</string>
+    <string name="update_recovery_description">每次更新後，在第一次啟動時更新 crDroid Recovery。</string>
     <string name="update_recovery_warning">一旦安裝完成，Recovery 就會更新。如果您希望保持原樣，請停用此功能。</string>
-    <string name="update_recovery_setting">與系統一起更新 Lineage Recovery</string>
+    <string name="update_recovery_setting">與系統一起更新 crDroid Recovery</string>
 </resources>

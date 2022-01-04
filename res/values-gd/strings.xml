@@ -81,7 +81,7 @@
     <string name="intro_restore_subtitle" product="default">Ma tha lethbhreac-glèidhidh on fhòn crDroid mu dheireadh agad, ’s urrainn dhut aiseag an-seo.</string>
     <string name="intro_restore_button">Aisig o lethbhreac-glèidhidh</string>
     <string name="update_recovery_title">Ùraich aiseag Lineage</string>
-    <string name="update_recovery_description">Ùraichidh seo aiseag Lineage air a’ chiad bhùtadh às dèidh gach ùrachadh.</string>
+    <string name="update_recovery_description">Ùraichidh seo aiseag crDroid air a’ chiad bhùtadh às dèidh gach ùrachadh.</string>
     <string name="update_recovery_warning">Thèid an t-aiseag ùrachadh cho luath ’s a bhios tu deiseil leis an t-suidheachadh. Ma tha thu airson a chumail mar a bha e, cuir an gleus seo à comas.</string>
-    <string name="update_recovery_setting">Ùraich aiseag Lineage leis an t-siostam obrachaidh</string>
+    <string name="update_recovery_setting">Ùraich aiseag crDroid leis an t-siostam obrachaidh</string>
 </resources>

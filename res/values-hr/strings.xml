@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">Ako imate sigurnosnu kopiju sa svog posljednjeg crDroid tableta, možete je vratiti ovdje.</string>
     <string name="intro_restore_subtitle" product="default">Ako imate sigurnosnu kopiju sa svog posljednjeg crDroid teleona, možete je vratiti ovdje.</string>
     <string name="intro_restore_button">Vrati podatke iz sigurnosne kopije</string>
-    <string name="update_recovery_title">Ažuriraj Lineage Recovery</string>
-    <string name="update_recovery_description">Ažuriraj Lineage Recovery pri prvom pokretanju nakon svakog ažuriranja.</string>
+    <string name="update_recovery_title">Ažuriraj crDroid Recovery</string>
+    <string name="update_recovery_description">Ažuriraj crDroid Recovery pri prvom pokretanju nakon svakog ažuriranja.</string>
     <string name="update_recovery_warning">Recovery će se ažurirati čim završite s postavljanjem. Ako ga želite zadržati netaknutim, onemogućite ovu značajku.</string>
-    <string name="update_recovery_setting">Ažuriraj Lineage Recovery zajedno sa OS</string>
+    <string name="update_recovery_setting">Ažuriraj crDroid Recovery zajedno sa OS</string>
 </resources>

@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">Dacă aveţi o copie de rezervă de pe ultima dvs. tabletă crDroid, o puteţi restaura aici.</string>
     <string name="intro_restore_subtitle" product="default">Dacă aveţi o copie de rezervă de pe ultimul dvs. telefon crDroid, o puteţi restaura aici.</string>
     <string name="intro_restore_button">Restaurează din backup</string>
-    <string name="update_recovery_title">Actualizează Lineage Recovery</string>
-    <string name="update_recovery_description">Actualizează Lineage Recovery la prima pornire după fiecare actualizare.</string>
+    <string name="update_recovery_title">Actualizează crDroid Recovery</string>
+    <string name="update_recovery_description">Actualizează crDroid Recovery la prima pornire după fiecare actualizare.</string>
     <string name="update_recovery_warning">Meniul de recuperare va fi actualizat imediat ce terminați configurarea. Dacă doriți să îl păstrați intact, dezactivați această caracteristică.</string>
-    <string name="update_recovery_setting">Actualizați Lineage Recovery alături de OS</string>
+    <string name="update_recovery_setting">Actualizați crDroid Recovery alături de OS</string>
 </resources>

@@ -80,8 +80,8 @@
     <string name="intro_restore_subtitle" product="tablet">Εάν έχετε αντίγραφο ασφαλείας από το τελευταίο crDroid tablet σας, μπορείτε να το επαναφέρετε εδώ.</string>
     <string name="intro_restore_subtitle" product="default">Εάν έχετε αντίγραφο ασφαλείας από το τελευταίο crDroid τηλέφωνό σας, μπορείτε να το επαναφέρετε εδώ.</string>
     <string name="intro_restore_button">Επαναφορά από αντίγραφο ασφαλείας</string>
-    <string name="update_recovery_title">Ενημέρωση Lineage Recovery</string>
-    <string name="update_recovery_description">Ενημέρωση της Lineage Recovery στην πρώτη εκκίνηση μετά από κάθε ενημέρωση.</string>
+    <string name="update_recovery_title">Ενημέρωση crDroid Recovery</string>
+    <string name="update_recovery_description">Ενημέρωση της crDroid Recovery στην πρώτη εκκίνηση μετά από κάθε ενημέρωση.</string>
     <string name="update_recovery_warning">Η Recovery θα ενημερωθεί μόλις ολοκληρώσετε τη ρύθμιση. Αν θέλετε να κρατήσετε την τρέχουσα recovery, απενεργοποιήστε αυτή την επιλογή.</string>
-    <string name="update_recovery_setting">Ενημέρωση Lineage Recovery παράλληλα με το λειτουργικό σύστημα</string>
+    <string name="update_recovery_setting">Ενημέρωση crDroid Recovery παράλληλα με το λειτουργικό σύστημα</string>
 </resources>
