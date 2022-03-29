@@ -34,7 +34,7 @@
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
             android:gravity="center"
-            android:scaleType="centerCrop"
+            android:scaleType="centerInside"
             android:src="@drawable/logo" />
     </LinearLayout>
 
