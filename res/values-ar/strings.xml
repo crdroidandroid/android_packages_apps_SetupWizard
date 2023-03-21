@@ -12,7 +12,7 @@
     <string name="done">تم</string>
     <string name="ok">موافق</string>
     <string name="loading">ثانية واحدة</string>
-    <string name="setup_welcome_message">مرحبا بك في <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">مرحبا بك في <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="emergency_call">مكالمة طوارئ</string>
     <string name="accessibility_settings">إعدادات إمكانية الوصول</string>
     <string name="setup_locale">اللغة</string>
@@ -30,13 +30,13 @@
     <string name="location_access_summary"><b>يسمح للتطبيقات التي طلبت إذنك</b> باستخدام معلومات موقعك. وقد يشمل ذلك موقعك الحالي ومواقعك السابقة.</string>
     <string name="location_agps_access_summary">عندما يكون الموقع قيد التشغيل، <b>قم بتنزيل بيانات مساعدة الأقمار الصناعية من الإنترنت</b>، مما يمكن أن يحسن أداء بدء تشغيل GPS بشكل كبير.</string>
     <string name="update_recovery_title">تحديث وضع الاسترداد (recovery)</string>
-    <string name="update_recovery_description">تحديث Lineage Recovery عند أول تشغيل بعد كل تحديث.</string>
+    <string name="update_recovery_description">تحديث crDroid Recovery عند أول تشغيل بعد كل تحديث.</string>
     <string name="update_recovery_warning">سيُحدث وضع الاسترداد بمجرد الانتهاء من الإعداد. إذا كنت ترغب في الحفاظ على وضع الاسترداد الحالي، قم بتعطيل هذه الميزة.</string>
-    <string name="update_recovery_setting">تحديث Lineage Recovery إلى جانب نظام التشغيل</string>
+    <string name="update_recovery_setting">تحديث crDroid Recovery إلى جانب نظام التشغيل</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
-    <string name="setup_services">ميزات LineageOS</string>
+    <string name="setup_services">ميزات crDroid</string>
     <string name="services_find_privacy_policy">يمكنك قراءة سياسة الخصوصية على جهاز آخر بزيارة <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">ساهم في تحسين <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_help_improve_cm">ساهم في تحسين <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>استخدام مفاتيح التنقل على الشاشة</b> بدلاً من مفاتيح الأجهزة.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="setup_navigation">التنقل</string>

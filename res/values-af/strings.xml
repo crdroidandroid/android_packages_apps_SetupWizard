@@ -24,6 +24,6 @@
     <string name="setup_current_time">Huidige tyd</string>
     <string name="setup_location">Ligging dienste</string>
     <string name="location_access_summary"><b>Laat programme toe wat jou toestemming gevra het</b> om jou ligging inligting te gebruik. Dit kan jou huidige ligging en plekke asook liggings en plekke uit die verlede insluit.</string>
-    <string name="setup_services">LineageOS kenmerke</string>
+    <string name="setup_services">crDroid kenmerke</string>
     <string name="services_os_nav_keys_label"><b>Gebruik skerm navigasie sleutels</b> in plaas van hardeware sleutels.</string>
 </resources>

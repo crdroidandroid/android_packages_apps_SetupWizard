@@ -12,7 +12,7 @@
     <string name="done">Hotovo</string>
     <string name="ok">OK</string>
     <string name="loading">Jen chvilku\u2026</string>
-    <string name="setup_welcome_message">Vítejte v\u00a0<xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Vítejte v\u00a0<xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="setup_managed_profile_welcome_message">Nastavte svůj pracovní profil</string>
     <string name="emergency_call">Tísňové volání</string>
     <string name="accessibility_settings">Nastavení přístupnosti</string>
@@ -26,21 +26,21 @@
     <string name="setup_current_date">Aktuální datum</string>
     <string name="setup_current_time">Aktuální čas</string>
     <string name="intro_restore_title">Obnovit aplikace a\u00a0data</string>
-    <string name="intro_restore_subtitle">Pokud máte zálohu Seedvault z <xliff:g id="name" example="LineageOS">%s</xliff:g> nebo jiného OS, můžete ji zde obnovit.</string>
+    <string name="intro_restore_subtitle">Pokud máte zálohu Seedvault z <xliff:g id="name" example="crDroid">%s</xliff:g> nebo jiného OS, můžete ji zde obnovit.</string>
     <string name="intro_restore_button">Obnovit ze zálohy</string>
     <string name="setup_location">Služby určení polohy</string>
     <string name="location_access_summary"><b>Povolí aplikacím, které žádaly oprávnění</b> použít vaše informace o poloze. To může zahrnovat vaši aktuální, ale i minulé polohy.</string>
     <string name="location_agps_access_summary">Když je poloha zapnutá, <b>stahujte data satelitní asistence z internetu</b>, což může výrazně zlepšit výkon spuštění systému GPS.</string>
-    <string name="update_recovery_title">Aktualizovat Lineage recovery</string>
-    <string name="update_recovery_description">Aktualizace Lineage recovery při prvním spuštění po každé aktualizaci</string>
+    <string name="update_recovery_title">Aktualizovat crDroid recovery</string>
+    <string name="update_recovery_description">Aktualizace crDroid recovery při prvním spuštění po každé aktualizaci</string>
     <string name="update_recovery_warning">Oddíl recovery bude aktualizován ihned poté, co dokončíte nastavení. Vypněte tuto funkci, jestliže si přejete ponechat oddíl nezměněný.</string>
-    <string name="update_recovery_setting">Aktualizovat Lineage recovery společně s OS</string>
+    <string name="update_recovery_setting">Aktualizovat crDroid recovery společně s OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
-    <string name="setup_services">LineageOS funkce</string>
-    <string name="services_pp_explanation">Tyto služby rozšiřují funkce vašeho zařízení. Data budou použita v souladu se zásadami ochrany osobních údajů <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="setup_services">crDroid funkce</string>
+    <string name="services_pp_explanation">Tyto služby rozšiřují funkce vašeho zařízení. Data budou použita v souladu se zásadami ochrany osobních údajů <xliff:g id="name" example="crDroid">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Zásady ochrany osobních údajů si můžete přečíst na jiném zařízení navštívením odkazu <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Pomozte vylepšit <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Pomozte vylepšit LineageOS">%1$s</xliff:g> automatickým odesíláním diagnostických dat a dat o používání <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Tato data nelze použít pro Vaší identifikaci, ale pomohou vývojářskému týmu s informacemi o výdrži baterie, výkonu aplikací a vývoji nových funkcí pro <xliff:g id="name" example="LineageOS">%2$s</xliff:g>.</string>
+    <string name="services_help_improve_cm">Pomozte vylepšit <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Pomozte vylepšit crDroid">%1$s</xliff:g> automatickým odesíláním diagnostických dat a dat o používání <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Tato data nelze použít pro Vaší identifikaci, ale pomohou vývojářskému týmu s informacemi o výdrži baterie, výkonu aplikací a vývoji nových funkcí pro <xliff:g id="name" example="crDroid">%2$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Použít navigační klávesy na obrazovce</b> namísto hw kláves.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigace</string>
