@@ -26,11 +26,11 @@
     <string name="intro_restore_button">Vrati podatke iz sigurnosne kopije</string>
     <string name="setup_location">Usluge lokacije</string>
     <string name="location_access_summary"><b>Dopusti aplikacijama koje traže tvoju dozvolu</b> da koriste informacije o tvojoj lokaciji. Ovo može uključiti tvoju sadašnju i prošle lokacije.</string>
-    <string name="update_recovery_title">Ažuriraj Lineage Recovery</string>
-    <string name="update_recovery_description">Ažuriraj Lineage Recovery pri prvom pokretanju nakon svakog ažuriranja.</string>
+    <string name="update_recovery_title">Ažuriraj crDroid Recovery</string>
+    <string name="update_recovery_description">Ažuriraj crDroid Recovery pri prvom pokretanju nakon svakog ažuriranja.</string>
     <string name="update_recovery_warning">Recovery će se ažurirati čim završite s postavljanjem. Ako ga želite zadržati netaknutim, onemogućite ovu značajku.</string>
-    <string name="update_recovery_setting">Ažuriraj Lineage Recovery zajedno sa OS</string>
-    <string name="setup_services">Značajke LineageOS-a</string>
-    <string name="services_help_improve_cm">Pomozite poboljšati <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="update_recovery_setting">Ažuriraj crDroid Recovery zajedno sa OS</string>
+    <string name="setup_services">Značajke crDroid-a</string>
+    <string name="services_help_improve_cm">Pomozite poboljšati <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Koristite navigacijske tipke na zaslonu</b>umjesto hardverskih tipki.</string>
 </resources>
