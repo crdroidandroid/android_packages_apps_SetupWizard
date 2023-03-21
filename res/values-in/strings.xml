@@ -25,7 +25,7 @@
     <string name="loading">Harap tunggu\u2026</string>
     <string name="setup_complete">Penyiapan selesai</string>
     <string name="setup_welcome">Selamat datang</string>
-    <string name="setup_welcome_message">Selamat datang di <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Selamat datang di <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="setup_locale">Bahasa</string>
     <string name="setup_wifi">Pilih Wi-Fi</string>
     <string name="setup_sim_missing">Kartu SIM hilang</string>
@@ -50,11 +50,11 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Panggilan darurat</string>
     <string name="accessibility_settings">Pengaturan aksesibilitas</string>
-    <string name="setup_services">Fitur LineageOS</string>
-    <string name="services_pp_explanation">Layanan ini digunakan untuk meningkatkan kemampuan perangkat Anda. Data akan digunakan sesuai dengan kebijakan privasi <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="setup_services">Fitur crDroid</string>
+    <string name="services_pp_explanation">Layanan ini digunakan untuk meningkatkan kemampuan perangkat Anda. Data akan digunakan sesuai dengan kebijakan privasi <xliff:g id="name" example="crDroid">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Anda dapat membaca kebijakan privasi di perangkat lainnya dengan mengunjungi <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Membantu meningkatkan <xliff:g id="name" example="LineageOS">%s </xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> dengan mengirim  data diagnosa dan penggunaan ke <xliff:g id="name" example="LineageOS">%2$s</xliff:g> secara otomatis. Informasi tersebut tidak untuk mengidentifikasi Anda, dan hanya berfungsi untuk membantu tim bekerja pada hal-hal seperti masa pakai baterai, performa aplikasi dan fitur-fitur <xliff:g id="name" example="LineageOS">%3$s</xliff:g> yang baru.</string>
+    <string name="services_help_improve_cm">Membantu meningkatkan <xliff:g id="name" example="crDroid">%s </xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> dengan mengirim  data diagnosa dan penggunaan ke <xliff:g id="name" example="crDroid">%2$s</xliff:g> secara otomatis. Informasi tersebut tidak untuk mengidentifikasi Anda, dan hanya berfungsi untuk membantu tim bekerja pada hal-hal seperti masa pakai baterai, performa aplikasi dan fitur-fitur <xliff:g id="name" example="crDroid">%3$s</xliff:g> yang baru.</string>
     <string name="services_os_nav_keys_label"><b>Gunakan tombol navigasi pada layar</b> bukan tombol perangkat keras.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="settings_biometric_setup_title">Pilih tipe kunci layar cadangan</string>
