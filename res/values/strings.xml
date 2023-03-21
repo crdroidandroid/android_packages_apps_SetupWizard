@@ -6,7 +6,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Setup Wizard</string>
-    <string name="os_name" translatable="false">LineageOS</string>
+    <string name="os_name" translatable="false">crDroid</string>
 
     <string name="lineage_wizard_script_uri" translatable="false">android.resource://org.lineageos.setupwizard/raw/lineage_wizard_script</string>
     <string name="lineage_wizard_script_user_uri" translatable="false">android.resource://org.lineageos.setupwizard/raw/lineage_wizard_script_user</string>
@@ -22,7 +22,7 @@
     <string name="loading">Just a sec\u2026</string>
 
     <!-- Welcome page -->
-    <string name="setup_welcome_message">Welcome to <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Welcome to <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="setup_managed_profile_welcome_message">Set up your work profile</string>
     <string name="emergency_call">Emergency call</string>
     <string name="accessibility_settings">Accessibility settings</string>
@@ -44,7 +44,7 @@
 
     <!-- Restore backup page -->
     <string name="intro_restore_title">Restore apps and data</string>
-    <string name="intro_restore_subtitle">If you have a Seedvault backup from <xliff:g id="name" example="LineageOS">%s</xliff:g> or any other OS, you can restore it here.</string>
+    <string name="intro_restore_subtitle">If you have a Seedvault backup from <xliff:g id="name" example="crDroid">%s</xliff:g> or any other OS, you can restore it here.</string>
     <string name="intro_restore_button">Restore from backup</string>
 
     <!-- Location page -->
@@ -53,19 +53,19 @@
     <string name="location_agps_access_summary">When location is on, <b>download satellite assistance data from the internet</b>, which can greatly improve the GPS startup performance.</string>
 
     <!-- Recovery update page -->
-    <string name="update_recovery_title">Update Lineage Recovery</string>
-    <string name="update_recovery_description">Updates Lineage Recovery on first boot subsequent to every update.</string>
+    <string name="update_recovery_title">Update crDroid Recovery</string>
+    <string name="update_recovery_description">Updates crDroid Recovery on first boot subsequent to every update.</string>
     <string name="update_recovery_warning">Recovery will be updated as soon as you finish the setup. If you wish to keep it intact, disable this feature.</string>
-    <string name="update_recovery_setting">Update Lineage Recovery alongside the OS</string>
+    <string name="update_recovery_setting">Update crDroid Recovery alongside the OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
 
-    <!-- LineageOS features page -->
-    <string name="setup_services">LineageOS features</string>
-    <string name="services_pp_explanation">These services work for you to extend the capabilities of your device. Data will be used in accordance with <xliff:g id="name" example="LineageOS">%1$s</xliff:g>\'s privacy policy.</string>
+    <!-- crDroid features page -->
+    <string name="setup_services">crDroid features</string>
+    <string name="services_pp_explanation">These services work for you to extend the capabilities of your device. Data will be used in accordance with <xliff:g id="name" example="crDroid">%1$s</xliff:g>\'s privacy policy.</string>
     <string name="services_find_privacy_policy">You can read the privacy policy on another device by visiting <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_privacy_policy_uri" translatable="false">https://lineageos.org/legal</string>
-    <string name="services_help_improve_cm">Help improve <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> by automatically sending diagnostic and usage data to <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. This information can’t be used to identify you and lends a hand to teams working on things like battery life, app performance, and new <xliff:g id="name" example="LineageOS">%3$s</xliff:g> features.</string>
+    <string name="services_help_improve_cm">Help improve <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> by automatically sending diagnostic and usage data to <xliff:g id="name" example="crDroid">%2$s</xliff:g>. This information can’t be used to identify you and lends a hand to teams working on things like battery life, app performance, and new <xliff:g id="name" example="crDroid">%3$s</xliff:g> features.</string>
     <string name="services_os_nav_keys_label"><b>Use on screen navigation keys</b> instead of hardware keys.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
 
