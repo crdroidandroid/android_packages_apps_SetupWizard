@@ -12,7 +12,7 @@
     <string name="done">Gereed</string>
     <string name="ok">OK</string>
     <string name="loading">Even geduld\u2026</string>
-    <string name="setup_welcome_message">Welkom bij <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Welkom bij <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="setup_managed_profile_welcome_message">Stel uw werkprofiel in</string>
     <string name="emergency_call">Noodoproep</string>
     <string name="accessibility_settings">Toegankelijkheidsinstellingen</string>
@@ -26,21 +26,21 @@
     <string name="setup_current_date">Huidige datum</string>
     <string name="setup_current_time">Huidige tijd</string>
     <string name="intro_restore_title">Herstel apps en gegevens</string>
-    <string name="intro_restore_subtitle">Als u een Seedvault backup heeft van <xliff:g id="name" example="LineageOS">%s</xliff:g> of een ander besturingssysteem, kunt u deze hier herstellen.</string>
+    <string name="intro_restore_subtitle">Als u een Seedvault backup heeft van <xliff:g id="name" example="crDroid">%s</xliff:g> of een ander besturingssysteem, kunt u deze hier herstellen.</string>
     <string name="intro_restore_button">Backup terugzetten</string>
     <string name="setup_location">Locatieservices</string>
     <string name="location_access_summary"><b>Apps toestaan die uw toestemming hebben gevraagd</b> om informatie over uw locatie te gebruiken. Dit kan uw huidige locatie en voorgaande locaties omvatten.</string>
     <string name="location_agps_access_summary">Wanneer locatie is ingeschakeld, <b>download satellietondersteuningsgegevens van internet</b>, wat de opstartprestatie van GPS aanzienlijk kan verbeteren.</string>
-    <string name="update_recovery_title">Lineage Recovery bijwerken</string>
-    <string name="update_recovery_description">Lineage Recovery updaten bij de eerste start na elke update</string>
+    <string name="update_recovery_title">crDroid Recovery bijwerken</string>
+    <string name="update_recovery_description">crDroid Recovery updaten bij de eerste start na elke update</string>
     <string name="update_recovery_warning">Recovery zal worden bijgewerkt zodra u de installatie hebt voltooid. Als u dit intact wilt houden, schakelt u deze functie uit.</string>
-    <string name="update_recovery_setting">Update Lineage Recovery naast het besturingssysteem</string>
+    <string name="update_recovery_setting">Update crDroid Recovery naast het besturingssysteem</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
-    <string name="setup_services">Functies van LineageOS</string>
-    <string name="services_pp_explanation">Deze diensten worden gebruikt om de mogelijkheden van uw apparaat uit te breiden. Gegevens zullen worden gebruikt conform het privacybeleid van <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_services">Functies van crDroid</string>
+    <string name="services_pp_explanation">Deze diensten worden gebruikt om de mogelijkheden van uw apparaat uit te breiden. Gegevens zullen worden gebruikt conform het privacybeleid van <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="services_find_privacy_policy">U kunt het privacybeleid op een ander apparaat lezen door <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> te bezoeken</string>
-    <string name="services_help_improve_cm">Help mee met het verbeteren van <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> door automatisch diagnose- en verbruiksgegevens te verzenden naar  <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Deze informatie kan niet gebruikt worden om u te identificeren en helpt de teams om te werken aan zaken zoals levensduur van de accu, app-prestaties en nieuwe <xliff:g id="name" example="LineageOS">%3$s</xliff:g> features.</string>
+    <string name="services_help_improve_cm">Help mee met het verbeteren van <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> door automatisch diagnose- en verbruiksgegevens te verzenden naar  <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Deze informatie kan niet gebruikt worden om u te identificeren en helpt de teams om te werken aan zaken zoals levensduur van de accu, app-prestaties en nieuwe <xliff:g id="name" example="crDroid">%3$s</xliff:g> features.</string>
     <string name="services_os_nav_keys_label"><b>On-screen navigatieknoppen</b> gebruiken in plaats van de hardwareknoppen.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigatie</string>

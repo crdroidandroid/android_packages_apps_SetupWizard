@@ -12,7 +12,7 @@
     <string name="done">انجام شد</string>
     <string name="ok">قبول</string>
     <string name="loading">یک لحظه لطفا\u2026</string>
-    <string name="setup_welcome_message">خوش آمدید به <xliff:g id="name" example="LineageOS"/></string>
+    <string name="setup_welcome_message">خوش آمدید به <xliff:g id="name" example="crDroid"/></string>
     <string name="setup_managed_profile_welcome_message">نمایه کاری خود را تنظیم کنید</string>
     <string name="emergency_call">تماس اضطراری</string>
     <string name="accessibility_settings">تنظیمات دسترسی</string>
@@ -26,21 +26,21 @@
     <string name="setup_current_date">تاریخ کنونی</string>
     <string name="setup_current_time">زمان کنونی</string>
     <string name="intro_restore_title">برنامه ها و داده ها را بازیابی کنید</string>
-    <string name="intro_restore_subtitle">اگر نسخه پشتیبان Seedvault از <xliff:g id="name" example="LineageOS">%s</xliff:g> یا هر سیستم‌عامل دیگری دارید، می‌توانید آن را در اینجا بازیابی کنید.</string>
+    <string name="intro_restore_subtitle">اگر نسخه پشتیبان Seedvault از <xliff:g id="name" example="crDroid">%s</xliff:g> یا هر سیستم‌عامل دیگری دارید، می‌توانید آن را در اینجا بازیابی کنید.</string>
     <string name="intro_restore_button">بازیابی از پشتیبان‌گیری</string>
     <string name="setup_location">خدمات مکان</string>
     <string name="location_access_summary"><b>به برنامه‌هایی که درخواست مکان می‌کنند اجازه دهید</b> از اطلاعات مکان شما استفاده کنند. ممکن است این استفاده شامل مکان فعلی و قبلی شما باشد.</string>
     <string name="location_agps_access_summary">وقتی مکان روشن است، <b>داده های کمک ماهواره را از اینترنت بارگیری کنید</b> که می تواند عملکرد راه‌اندازی GPS را تا حد زیادی بهبود بخشد.</string>
-    <string name="update_recovery_title">به‌روزرسانی ریکاوری Lineage</string>
-    <string name="update_recovery_description">به روزرسانی ریکاوری Lineage در اولین بوت پس از هر بروزرسانی.</string>
+    <string name="update_recovery_title">به‌روزرسانی ریکاوری crDroid</string>
+    <string name="update_recovery_description">به روزرسانی ریکاوری crDroid در اولین بوت پس از هر بروزرسانی.</string>
     <string name="update_recovery_warning">به محض پایان راه‌اندازی، ریکاوری به روز می شود. اگر می خواهید آن را دست نخورده نگه دارید، این ویژگی را غیرفعال کنید.</string>
-    <string name="update_recovery_setting">ریکاوری Lineage را در کنار سیستم عامل به روز کنید</string>
+    <string name="update_recovery_setting">ریکاوری crDroid را در کنار سیستم عامل به روز کنید</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_services">ویژگی‌های لینیِج اواِس</string>
-    <string name="services_pp_explanation">این خدمات در جهت افزایش قابلیت‌های دستگاه شما عمل می‌کنند. داده‌ها مطابق سیاست های حریم خصوصی <xliff:g id="name" example="LineageOS">%1$s</xliff:g> مورد استفاده قرار خواهند گرفت.</string>
+    <string name="services_pp_explanation">این خدمات در جهت افزایش قابلیت‌های دستگاه شما عمل می‌کنند. داده‌ها مطابق سیاست های حریم خصوصی <xliff:g id="name" example="crDroid">%1$s</xliff:g> مورد استفاده قرار خواهند گرفت.</string>
     <string name="services_find_privacy_policy">شما می‌توانید سیاست های حریم خصوصی را بر روی یک دستگاه دیگر با بازدید از <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> بخوانید</string>
-    <string name="services_help_improve_cm">کمک به بهبود <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> با ارسال خودکار داده های عیب یابی و استفاده به <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. این اطلاعات قادر به آشکار سازی هویت شما نبوده و به تیم های مشغول بر روی چیز هایی مثل عمر باتری، کارایی نرم افزار و ویژگی های <xliff:g id="name" example="LineageOS">%3$s</xliff:g> جدید کمک می‌کند.</string>
+    <string name="services_help_improve_cm">کمک به بهبود <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> با ارسال خودکار داده های عیب یابی و استفاده به <xliff:g id="name" example="crDroid">%2$s</xliff:g>. این اطلاعات قادر به آشکار سازی هویت شما نبوده و به تیم های مشغول بر روی چیز هایی مثل عمر باتری، کارایی نرم افزار و ویژگی های <xliff:g id="name" example="crDroid">%3$s</xliff:g> جدید کمک می‌کند.</string>
     <string name="services_os_nav_keys_label"><b>استفاده از کلیدهای پیمایش صفحه نمایش</b> به جای کلیدهای سخت‌افزاری.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="setup_navigation">پیمایش</string>
