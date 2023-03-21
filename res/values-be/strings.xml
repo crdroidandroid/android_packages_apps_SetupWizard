@@ -49,6 +49,6 @@
     <string name="biometric_setup_backup_lock_method">Наладзіць дадатковы спосаб разблакоўкі</string>
     <string name="biometric_setup_screen_lock_setup">Наладзіць блакаванне экрану</string>
     <string name="settings_lockscreen_setup_details">Выберыце спосаб блакіравання экрана.</string>
-    <string name="intro_restore_subtitle" product="tablet">Калі ў вас засталася рэзервовая копія з папярэдняга планшэта, які працаваў на <xliff:g id="name" example="LineageOS">%s</xliff:g>, вы можаце аднавіць іх тут.</string>
-    <string name="intro_restore_subtitle" product="default">Калі ў вас засталася рэзервовая копія з папярэдняга тэлефона, які працаваў на <xliff:g id="name" example="LineageOS">%s</xliff:g>, вы можаце аднавіць іх тут.</string>
+    <string name="intro_restore_subtitle" product="tablet">Калі ў вас засталася рэзервовая копія з папярэдняга планшэта, які працаваў на <xliff:g id="name" example="crDroid">%s</xliff:g>, вы можаце аднавіць іх тут.</string>
+    <string name="intro_restore_subtitle" product="default">Калі ў вас засталася рэзервовая копія з папярэдняга тэлефона, які працаваў на <xliff:g id="name" example="crDroid">%s</xliff:g>, вы можаце аднавіць іх тут.</string>
 </resources>

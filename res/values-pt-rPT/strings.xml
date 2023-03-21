@@ -25,7 +25,7 @@
     <string name="loading">Um momento\u2026</string>
     <string name="setup_complete">A configuração está completa</string>
     <string name="setup_welcome">Bem-vindo</string>
-    <string name="setup_welcome_message">Bem-vindo a <xliff:g id="nome" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Bem-vindo a <xliff:g id="nome" example="crDroid">%1$s</xliff:g></string>
     <string name="setup_locale">Idioma</string>
     <string name="setup_wifi">Selecionar rede Wi-Fi</string>
     <string name="setup_sim_missing">Falta o cartão SIM</string>
@@ -50,11 +50,11 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Chamada de emergência</string>
     <string name="accessibility_settings">Definições de acessibilidade</string>
-    <string name="setup_services">Funcionalidades LineageOS</string>
-    <string name="services_pp_explanation">Estes serviços servem para ampliar os recursos do seu telefone. Os dados serão utilizados em conformidade com a politica de privacidade de <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="setup_services">Funcionalidades crDroid</string>
+    <string name="services_pp_explanation">Estes serviços servem para ampliar os recursos do seu telefone. Os dados serão utilizados em conformidade com a politica de privacidade de <xliff:g id="name" example="crDroid">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Pode ler a política de privacidade noutro dispositivo visitando <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Ajude a melhorar a <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Ajude a melhorar a LineageOS">%1$s</xliff:g> enviando automaticamente dados de diagnóstico e utilização para <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Esta informação não pode ser usada para identificá-lo e ajuda as equipas de desenvolvimento a melhorarem coisas como a duração da bateria, o desempenho das aplicações e o desenvolvimento de novas funcionalidades para <xliff:g id="name" example="LineageOS">%2$s</xliff:g>.</string>
+    <string name="services_help_improve_cm">Ajude a melhorar a <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Ajude a melhorar a crDroid">%1$s</xliff:g> enviando automaticamente dados de diagnóstico e utilização para <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Esta informação não pode ser usada para identificá-lo e ajuda as equipas de desenvolvimento a melhorarem coisas como a duração da bateria, o desempenho das aplicações e o desenvolvimento de novas funcionalidades para <xliff:g id="name" example="crDroid">%2$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Usar os botões de navegação no ecrã</b> em vez dos botões do dispositivo.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="settings_biometric_setup_title">Selecione o tipo de bloqueio do ecrã da cópia de segurança</string>
@@ -75,8 +75,8 @@
     <string name="lockscreen_setup_summary"><b>Protejer este dispositivo</b> ao exigir um código PIN, padrão ou palavra-passe para desbloqueio do ecrã</string>
     <string name="lockscreen_setup_screen_lock_setup">Configurar</string>
     <string name="intro_restore_title">Restaurar aplicações e dados</string>
-    <string name="intro_restore_subtitle" product="tablet">Se tiver uma cópia de segurança do seu anterior tablet com <xliff:g id="name" example="LineageOS">%s</xliff:g>, pode restaurá-la aqui.</string>
-    <string name="intro_restore_subtitle" product="default">Se tiver uma cópia de segurança do seu anterior telefone com <xliff:g id="name" example="LineageOS">%s</xliff:g>, pode restaurá-la aqui.</string>
+    <string name="intro_restore_subtitle" product="tablet">Se tiver uma cópia de segurança do seu anterior tablet com <xliff:g id="name" example="crDroid">%s</xliff:g>, pode restaurá-la aqui.</string>
+    <string name="intro_restore_subtitle" product="default">Se tiver uma cópia de segurança do seu anterior telefone com <xliff:g id="name" example="crDroid">%s</xliff:g>, pode restaurá-la aqui.</string>
     <string name="intro_restore_button">Restaurar a partir de cópia de segurança</string>
     <string name="update_recovery_title">Atualizar a recuperação Lineage</string>
     <string name="update_recovery_description">Atualiza a recuperação Lineage na primeira inicialização subsequente a cada atualização.</string>

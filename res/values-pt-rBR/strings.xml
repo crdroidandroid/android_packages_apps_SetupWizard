@@ -49,9 +49,9 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Chamada de emergência</string>
     <string name="accessibility_settings">Configurações de acessibilidade</string>
-    <string name="setup_services">Recursos LineageOS</string>
-    <string name="services_help_improve_cm">Ajude a melhorar o <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> enviando automaticamente dados de diagnóstico e utilização para  <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Esta informação não pode ser usada para identificá-lo e ajuda os desenvolvedores a melhorarem funções e serviços como a duração da bateria, o desempenho das aplicações e o desenvolvimento de novos recursos para o <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="setup_services">Recursos crDroid</string>
+    <string name="services_help_improve_cm">Ajude a melhorar o <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> enviando automaticamente dados de diagnóstico e utilização para  <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Esta informação não pode ser usada para identificá-lo e ajuda os desenvolvedores a melhorarem funções e serviços como a duração da bateria, o desempenho das aplicações e o desenvolvimento de novos recursos para o <xliff:g id="name" example="crDroid">%3$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Use as teclas de navegação na tela</b> em vez de botões físicos.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="settings_biometric_setup_title">Selecione o tipo de bloqueio de tela do backup</string>
