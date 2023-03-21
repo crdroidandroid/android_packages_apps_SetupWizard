@@ -24,6 +24,6 @@
     <string name="setup_current_time">Gjeldende klokkeslett</string>
     <string name="setup_location">Lokasjonstjenester</string>
     <string name="location_access_summary"><b>Tillat programmer som har bedt om din tillatelse</b> å bruke stedsinformasjonen. Dette kan være din nåværende posisjon og siste steder.</string>
-    <string name="setup_services">LineageOS-funksjoner</string>
+    <string name="setup_services">crDroid-funksjoner</string>
     <string name="services_os_nav_keys_label"><b>Bruk navigasjonstaster på skjermen </b> istedenfor hardware knapper.</string>
 </resources>
