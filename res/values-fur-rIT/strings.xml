@@ -25,7 +25,7 @@
     <string name="loading">Dome un secont\u2026</string>
     <string name="setup_complete">Configurazion completade</string>
     <string name="setup_welcome">Benvignûts</string>
-    <string name="setup_welcome_message">Benvignûts su <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_welcome_message">Benvignûts su <xliff:g id="name" example="crDroid">%1$s</xliff:g></string>
     <string name="setup_locale">Lenghe</string>
     <string name="setup_wifi">Selezione il Wi-Fi</string>
     <string name="setup_sim_missing">E mancje la schede SIM</string>
@@ -50,11 +50,11 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Clamade di emergjence</string>
     <string name="accessibility_settings">Impostazions di acès facilitât</string>
-    <string name="setup_services">Funzionalitâts di LineageOS</string>
-    <string name="services_pp_explanation">Chescj servizis a funzionin par slargjâ lis funzionalitâts dal to dispositîf. I dâts a vignaran doprâts in conformitât cu la informative su la riservatece di <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="setup_services">Funzionalitâts di crDroid</string>
+    <string name="services_pp_explanation">Chescj servizis a funzionin par slargjâ lis funzionalitâts dal to dispositîf. I dâts a vignaran doprâts in conformitât cu la informative su la riservatece di <xliff:g id="name" example="crDroid">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Tu puedis lei la informative su la riservatece suntun altri dispositîf visitant <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Jude a miorâ <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> inviant in automatic i dâts diagnostiche di consum ai svilupadôrs di <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Nol sarà pussibil doprâ chestis informazions par identificâti ma a dan une man ai grups che a lavorin su robis come la durade de batarie, lis prestazions des aplicazions e lis gnovis funzionalitâts di <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_help_improve_cm">Jude a miorâ <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> inviant in automatic i dâts diagnostiche di consum ai svilupadôrs di <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Nol sarà pussibil doprâ chestis informazions par identificâti ma a dan une man ai grups che a lavorin su robis come la durade de batarie, lis prestazions des aplicazions e lis gnovis funzionalitâts di <xliff:g id="name" example="crDroid">%3$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Dopre i botons virtuâi sul schermi</b> invezit di chei fisics.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="settings_biometric_setup_title">Selezione la schermade di bloc di risierve</string>
@@ -76,7 +76,7 @@
     <string name="lockscreen_setup_summary"><b>Protêç chest dispositîf</b> e domande un PIN, une secuence o une password par sblocâ il schermi</string>
     <string name="lockscreen_setup_screen_lock_setup">Configure</string>
     <string name="intro_restore_title">Ripristine aplicazions e dâts</string>
-    <string name="intro_restore_subtitle">Se tu âs un backup di un altri dispositîf cun <xliff:g id="name" example="LineageOS">%s</xliff:g>, tu puedis ripristinâlu cumò.</string>
+    <string name="intro_restore_subtitle">Se tu âs un backup di un altri dispositîf cun <xliff:g id="name" example="crDroid">%s</xliff:g>, tu puedis ripristinâlu cumò.</string>
     <string name="intro_restore_button">Ripristine dal backup</string>
     <string name="update_recovery_title">Inzorne Recovery di Lineage</string>
     <string name="update_recovery_description">Al inzorne il Recovery di Lineage al prin inviament sucessîf di ogni inzornament.</string>

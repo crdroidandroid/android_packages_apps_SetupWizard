@@ -48,8 +48,8 @@
     <string name="yes">Da</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d </xliff:g> - <xliff:g id="name">%2$s </xliff:g></string>
     <string name="emergency_call">Hitan poziv</string>
-    <string name="setup_services">Značajke LineageOS-a</string>
-    <string name="services_help_improve_cm">Pomozite poboljšati <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="setup_services">Značajke crDroid-a</string>
+    <string name="services_help_improve_cm">Pomozite poboljšati <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Koristite navigacijske tipke na zaslonu</b>umjesto hardverskih tipki.</string>
     <string name="settings_biometric_setup_title">Izaberite rezerni tip zaključavanja zaslona</string>
     <string name="settings_biometric_setup_details">Kako želite zaključati vaš zaslon?</string>

@@ -25,7 +25,7 @@
     <string name="loading">Bíddu aðeins\u2026</string>
     <string name="setup_complete">Uppsetningu er lokið</string>
     <string name="setup_welcome">Velkomin</string>
-    <string name="setup_welcome_message">Velkomin í <xliff:g id="name" example="LineageOS">%1s</xliff:g></string>
+    <string name="setup_welcome_message">Velkomin í <xliff:g id="name" example="crDroid">%1s</xliff:g></string>
     <string name="setup_locale">Tungumál</string>
     <string name="setup_wifi">Veldu Wi-Fi-net</string>
     <string name="setup_sim_missing">SIM-kortið vantar</string>
@@ -50,11 +50,11 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Neyðarsímtal</string>
     <string name="accessibility_settings">Stillingar fyrir altækan aðgang</string>
-    <string name="setup_services">Eiginleikar LineageOS</string>
-    <string name="services_pp_explanation">Þessar þjónustur gera þér kleift að útvíkka eiginleika tækisins þíns. Gögn verða notuð í samræmi við persónuverndarstefnu <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="setup_services">Eiginleikar crDroid</string>
+    <string name="services_pp_explanation">Þessar þjónustur gera þér kleift að útvíkka eiginleika tækisins þíns. Gögn verða notuð í samræmi við persónuverndarstefnu <xliff:g id="name" example="crDroid">%1$s</xliff:g>.</string>
     <string name="services_find_privacy_policy">Lestu stefnu varðandi meðferð persónulegra gagna með því að fara á <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Hjálpaðu okkur að bæta <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> með því að senda sjálfvirkt greiningargögn og upplýsingar um notkun til <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Þessar upplýsingar er ekki hægt að nota til að auðkenna þig og hjálpa þróunarteymum við vinnu varðandi ýmis atriði, eins og líftíma rafhlöðu, afköst forrita og nýja eiginleika í <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_help_improve_cm">Hjálpaðu okkur að bæta <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> með því að senda sjálfvirkt greiningargögn og upplýsingar um notkun til <xliff:g id="name" example="crDroid">%2$s</xliff:g>. Þessar upplýsingar er ekki hægt að nota til að auðkenna þig og hjálpa þróunarteymum við vinnu varðandi ýmis atriði, eins og líftíma rafhlöðu, afköst forrita og nýja eiginleika í <xliff:g id="name" example="crDroid">%3$s</xliff:g>.</string>
     <string name="services_os_nav_keys_label"><b>Nota leiðsagnarlykla á skjánum</b> í stað vélbúnaðarhnappa.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="settings_biometric_setup_title">Veldu gerð skjálæsingar til vara</string>
@@ -76,10 +76,10 @@
     <string name="lockscreen_setup_screen_lock_setup">Setja upp</string>
     <string name="intro_restore_title">Endurheimta forrit og gögn</string>
     <string name="intro_restore_button">Endurheimta úr öryggisafriti</string>
-    <string name="update_recovery_title">Uppfæra endurheimtingu LineageOS</string>
-    <string name="update_recovery_description">Uppfærir LineageOS endurheimtingarmynd í fyrstu ræsingu á eftir hverri uppfærslu.</string>
+    <string name="update_recovery_title">Uppfæra endurheimtingu crDroid</string>
+    <string name="update_recovery_description">Uppfærir crDroid endurheimtingarmynd í fyrstu ræsingu á eftir hverri uppfærslu.</string>
     <string name="update_recovery_warning">Endurheimtudiskmyndin verður uppfærð um leið og þú lýkur uppsetningunni. Ef þú vilt halda henni ósnertri, skaltu gera þetta óvirkt.</string>
-    <string name="update_recovery_setting">Uppfæra endurheimtingu LineageOS samhliða uppfærslum stýrikerfis</string>
+    <string name="update_recovery_setting">Uppfæra endurheimtingu crDroid samhliða uppfærslum stýrikerfis</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Flakk</string>
     <string name="navigation_summary">Veldu þá aðferð við flakk sem þú vilt nota</string>
