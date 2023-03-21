@@ -24,7 +24,7 @@
     <string name="setup_current_time">השעה הנוכחית</string>
     <string name="setup_location">שירותי מיקום</string>
     <string name="location_access_summary"><b>אפשר ליישומים שביקשו את רשותך</b> להשתמש במידע על מיקומך. הפעולה עשויה לכלול את מיקומך הנוכחי ומיקומים קודמים.</string>
-    <string name="setup_services">תכונות LineageOS</string>
-    <string name="services_help_improve_cm">עזור בשיפור <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="setup_services">תכונות crDroid</string>
+    <string name="services_help_improve_cm">עזור בשיפור <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>השתמש במקשי הניווט במסך</b> במקום במקשים הפיזיים.</string>
 </resources>

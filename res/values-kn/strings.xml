@@ -24,7 +24,7 @@
     <string name="setup_current_time">ಪ್ರಸ್ತುತ ಸಮಯ</string>
     <string name="setup_location">ಸ್ಥಳ ಸೇವೇಗಳು</string>
     <string name="location_access_summary"><b>ನಿಮ್ಮ ಅನುಮತಿಗಳನ್ನು ಕೇಳಿರುವ ಆಪ್‍ಗಳಿಗೆ</b> ನಿಮ್ಮ ಸ್ಥಳದ ಮಾಹಿತಿಯನ್ನು ಉಪಯೋಗಿಸಲು ಅನುಮತಿಸುತ್ತದೆ. ಇದು ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಸ್ಥಳ ಮತ್ತು ಹಿಂದಿನ ಸ್ಥಳಗಳನ್ನೂ ಒಳಗೊಂಡಿರಬಹುದು.</string>
-    <string name="setup_services">LineageOS ವೈಶಿಷ್ಟ್ಯಗಳು</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> ಸುಧಾರಿಸಲು ನೆರವಾಗು</string>
+    <string name="setup_services">crDroid ವೈಶಿಷ್ಟ್ಯಗಳು</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="crDroid">%s</xliff:g> ಸುಧಾರಿಸಲು ನೆರವಾಗು</string>
     <string name="services_os_nav_keys_label">ಯಂತ್ರಾಂಶ ಕೀಲಿಗಳ ಬದಲಾಗಿ <b>ಪರದೆಯ ಮೇಲಿನ ಸಂಚಾಲನೆ ಕೀಲಿಗಳನ್ನು ಉಪಯೋಗಿಸಿ</b>.</string>
 </resources>
