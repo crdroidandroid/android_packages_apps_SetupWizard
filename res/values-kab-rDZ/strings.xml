@@ -40,8 +40,8 @@
     <string name="yes">Ih</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Isawalen uɛjilen</string>
-    <string name="setup_services">Timahilin n LineageOS</string>
-    <string name="services_help_improve_cm">Muddet afus ad innerni <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="setup_services">Timahilin n crDroid</string>
+    <string name="services_help_improve_cm">Muddet afus ad innerni <xliff:g id="name" example="crDroid">%s</xliff:g></string>
     <string name="settings_biometric_setup_details">Amek tebγiḍ ad tzekkwreḍ agdil-ik?</string>
     <string name="fingerprint_setup_title">Asbadu n udsil umḍin</string>
     <string name="fingerprint_setup_add_fingerprint">Rnu adsil umdin-ik</string>

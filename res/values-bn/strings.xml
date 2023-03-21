@@ -25,7 +25,7 @@
     <string name="loading">মাত্র কয়েক মুহূর্ত\u2026</string>
     <string name="setup_complete">সেটাপ সম্পন্ন</string>
     <string name="setup_welcome">স্বাগতম</string>
-    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> এ আপনাকে স্বাগতম!</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="crDroid">%1$s</xliff:g> এ আপনাকে স্বাগতম!</string>
     <string name="setup_locale">ভাষা</string>
     <string name="setup_wifi">Wi-Fi নির্বাচন করুন</string>
     <string name="setup_sim_missing">সিম কার্ড অনুপস্থিত</string>
@@ -48,9 +48,9 @@
     <string name="yes">হ্যাঁ</string>
     <string name="data_sim_name">সিম <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">জরুরী কল</string>
-    <string name="setup_services">LineageOS এর বৈশিষ্ট্যসমূহ</string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> কে সাহায্য করুন সয়ংক্রিয়ভাবে ইউজেজ ও ডায়াগনস্টিক ডাটা 
-<xliff:g id="name" example="LineageOS">%2$s</xliff:g> কে পাঠানোর মাধ্যমে। এই তথ্য দ্বারা আপনাকে চিহ্নিত করা যাবে না এবং আপনি এর মাধ্যমে প্রজেক্ট এর দলকে বিভিন্ন <xliff:g id="name" example="LineageOS">%3$s</xliff:g> ফিচার তৈরিতে সাহায্য করতে পারবেন।</string>
+    <string name="setup_services">crDroid এর বৈশিষ্ট্যসমূহ</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve crDroid">%1$s</xliff:g> কে সাহায্য করুন সয়ংক্রিয়ভাবে ইউজেজ ও ডায়াগনস্টিক ডাটা 
+<xliff:g id="name" example="crDroid">%2$s</xliff:g> কে পাঠানোর মাধ্যমে। এই তথ্য দ্বারা আপনাকে চিহ্নিত করা যাবে না এবং আপনি এর মাধ্যমে প্রজেক্ট এর দলকে বিভিন্ন <xliff:g id="name" example="crDroid">%3$s</xliff:g> ফিচার তৈরিতে সাহায্য করতে পারবেন।</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="fingerprint_setup_title">আঙ্গুলের ছাপ সেটআপ</string>
     <string name="lockscreen_setup_screen_lock_setup">সেট আপ করুন</string>

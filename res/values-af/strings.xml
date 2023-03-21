@@ -47,7 +47,7 @@
     <string name="no">Nee</string>
     <string name="yes">Ja</string>
     <string name="emergency_call">Noodoproep</string>
-    <string name="setup_services">LineageOS kenmerke</string>
+    <string name="setup_services">crDroid kenmerke</string>
     <string name="services_os_nav_keys_label"><b>Gebruik skerm navigasie sleutels</b> in plaas van hardeware sleutels.</string>
     <string name="settings_biometric_setup_title">Kies nog \'n skerm sluit tipe</string>
     <string name="settings_biometric_setup_details">Hoe wil jy jou skerm sluit?</string>

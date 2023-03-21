@@ -47,8 +47,8 @@
     <string name="no">ಬೇಡ</string>
     <string name="yes">ಹೌದು</string>
     <string name="emergency_call">ತುರ್ತುಸ್ಥಿತಿ ಕರೆ</string>
-    <string name="setup_services">LineageOS ವೈಶಿಷ್ಟ್ಯಗಳು</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> ಸುಧಾರಿಸಲು ನೆರವಾಗು</string>
+    <string name="setup_services">crDroid ವೈಶಿಷ್ಟ್ಯಗಳು</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="crDroid">%s</xliff:g> ಸುಧಾರಿಸಲು ನೆರವಾಗು</string>
     <string name="services_os_nav_keys_label">ಯಂತ್ರಾಂಶ ಕೀಲಿಗಳ ಬದಲಾಗಿ <b>ಪರದೆಯ ಮೇಲಿನ ಸಂಚಾಲನೆ ಕೀಲಿಗಳನ್ನು ಉಪಯೋಗಿಸಿ</b>.</string>
     <string name="settings_biometric_setup_title">ಬ್ಯಾಕಪ್ ಪರದೆ ಲಾಕ್ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
     <string name="settings_biometric_setup_details">ನಿಮ್ಮ ಪರದೆಯನ್ನು ನೀವು ಹೇಗೆ ಲಾಕ್ ಮಾಡಲು ಬಯಸುವಿರಿ?</string>
