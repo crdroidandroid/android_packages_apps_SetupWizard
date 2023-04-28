@@ -19,7 +19,7 @@ package org.lineageos.setupwizard;
 
 import android.location.LocationManager;
 import android.os.Bundle;
-import android.os.UserHandle;
+import android.os.Process;
 import android.provider.Settings;
 import android.view.View;
 import android.widget.CheckBox;
@@ -44,15 +44,11 @@ public class LocationSettingsActivity extends BaseSetupWizardActivity {
         mLocationManager = getSystemService(LocationManager.class);
         View locationAccessView = findViewById(R.id.location);
         locationAccessView.setOnClickListener(v -> {
-            mLocationManager.setLocationEnabledForUser(!mLocationAccess.isChecked(),
-                    new UserHandle(UserHandle.USER_CURRENT));
             mLocationAccess.setChecked(!mLocationAccess.isChecked());
         });
         View locationAgpsAccessView = findViewById(R.id.location_agps);
         locationAgpsAccessView.setOnClickListener(v -> {
             mLocationAgpsAccess.setChecked(!mLocationAgpsAccess.isChecked());
-            Settings.Global.putInt(getContentResolver(), Settings.Global.ASSISTED_GPS_ENABLED,
-                    mLocationAgpsAccess.isChecked() ? 1 : 0);
         });
     }
 
@@ -63,6 +59,17 @@ public class LocationSettingsActivity extends BaseSetupWizardActivity {
         mLocationAgpsAccess.setChecked(Settings.Global.getInt(getContentResolver(),
                 Settings.Global.ASSISTED_GPS_ENABLED, 0) == 1);
     }
+
+    @Override
+    protected void onNextPressed() {
+        mLocationManager.setLocationEnabledForUser(mLocationAccess.isChecked(),
+                Process.myUserHandle());
+        Settings.Global.putInt(getContentResolver(), Settings.Global.ASSISTED_GPS_ENABLED,
+                mLocationAgpsAccess.isChecked() ? 1 : 0);
+        super.onNextPressed();
+    }
+
+
 
     @Override
     protected int getLayoutResId() {
