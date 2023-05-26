@@ -56,8 +56,6 @@ public class LocationSettingsActivity extends BaseSetupWizardActivity {
     public void onResume() {
         super.onResume();
         mLocationAccess.setChecked(mLocationManager.isLocationEnabled());
-        mLocationAgpsAccess.setChecked(Settings.Global.getInt(getContentResolver(),
-                Settings.Global.ASSISTED_GPS_ENABLED, 0) == 1);
     }
 
     @Override
