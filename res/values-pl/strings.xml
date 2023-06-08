@@ -47,14 +47,25 @@
     <string name="no">Nie</string>
     <string name="yes">Tak</string>
     <string name="emergency_call">Połączenie alarmowe</string>
+    <string name="accessibility_settings">Ustawienia ułatwień dostępu</string>
     <string name="setup_services">Funkcje crDroid</string>
+    <string name="services_pp_explanation">Usługi te działają na rzecz użytkownika w celu rozszerzenia możliwości jego urządzenia. Dane będą wykorzystywane zgodnie z polityką prywatności <xliff:g id="name" example="crDroid">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Politykę prywatności możesz przeczytać na innym urządzeniu, odwiedzając stronę <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
     <string name="services_help_improve_cm">Pomóż ulepszyć <xliff:g id="name" example="crDroid">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Pomóż ulepszyć crDroid">%1$s</xliff:g> zezwalając na automatyczne przesyłanie danych diagnostycznych oraz użytkowania do crDroid. Te informacje nie będą mogły zostać użyte do identyfikacji i stanowią pomoc dla zespołów pracujących nad czasem pracy baterii, wydajnością aplikacji oraz nowymi <xliff:g id="name" example="crDroid">%2$s</xliff:g> funkcjami.</string>
     <string name="services_os_nav_keys_label"><b>Użyj ekranowych przycisków nawigacyjnych</b> zamiast klawiszy sprzętowych.</string>
+    <string name="setup_unlock">Odblokuj</string>
+    <string name="setup_device_locked">To urządzenie zostało zablokowane przez użytkownika.</string>
+    <string name="setup_require_cyanogen_label"><b>Wymagaj hasła do konta</b>, aby korzystać z urządzenia nawet po przywróceniu ustawień fabrycznych.</string>
+    <string name="setup_device_locked_instructions"><i>Aby włączyć/wyłączyć tę funkcję, przejdź do Ustawienia &gt; Zabezpieczenia</i></string>
     <string name="settings_biometric_setup_title">Wybierz zapasową opcję blokady ekranu</string>
     <string name="settings_biometric_setup_details">Jak chcesz blokować swój ekran?</string>
     <string name="fingerprint_setup_title">Konfiguracja odcisków palców</string>
     <string name="fingerprint_setup_summary">Aby użyć czujnika linii papilarnych do odblokowania ekranu, musisz:</string>
     <string name="fingerprint_setup_add_fingerprint">Dodać swój odcisk palca</string>
+    <string name="face_setup_title">Konfiguracja odblokowywania twarzą</string>
+    <string name="face_setup_summary">Aby odblokować ekran swoją twarzą musisz</string>
+    <string name="face_setup_add_face">Dodać swoją twarz</string>
     <string name="biometric_setup_backup_lock_method">Skonfigurować drugą metodę odblokowania</string>
     <string name="biometric_setup_screen_lock_setup">Skonfigurować blokadę ekranu</string>
     <string name="sim_locale_changed">Wykryto %1$s SIM</string>
@@ -64,4 +75,8 @@
     <string name="lockscreen_setup_title" product="default">Zabezpiecz telefon</string>
     <string name="lockscreen_setup_summary"><b>Zabezpiecz to urządzenie</b>, wymagając kodu PIN, wzoru lub hasła do odblokowania ekranu</string>
     <string name="lockscreen_setup_screen_lock_setup">Konfiguracja</string>
+    <string name="intro_restore_title">Przywracanie aplikacji i danych</string>
+    <string name="intro_restore_subtitle" product="tablet">Jeśli masz kopię zapasową tabletu z systemem crDroid, możesz ją przywrócić tutaj.</string>
+    <string name="intro_restore_subtitle" product="default">Jeśli masz kopię zapasową telefonu z systemem crDroid, możesz ją przywrócić tutaj.</string>
+    <string name="intro_restore_button">Przywracanie z kopii zapasowej</string>
 </resources>
