@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Restabiliți aplicațiile și datele</string>
     <string name="intro_restore_subtitle">Dacă aveţi o copie de rezervă de pe ultimul dispozitiv <xliff:g id="name" example="crDroid">%s</xliff:g>, îl puteţi restaura aici.</string>
     <string name="intro_restore_button">Restaurează din backup</string>
-    <string name="update_recovery_title">Actualizează Lineage Recovery</string>
-    <string name="update_recovery_description">Actualizează Lineage Recovery la prima pornire după fiecare actualizare.</string>
+    <string name="update_recovery_title">Actualizează crDroid Recovery</string>
+    <string name="update_recovery_description">Actualizează crDroid Recovery la prima pornire după fiecare actualizare.</string>
     <string name="update_recovery_warning">Meniul de recuperare va fi actualizat imediat ce terminați configurarea. Dacă doriți să îl păstrați intact, dezactivați această caracteristică.</string>
-    <string name="update_recovery_setting">Actualizați Lineage Recovery alături de OS</string>
+    <string name="update_recovery_setting">Actualizați crDroid Recovery alături de OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigare</string>
     <string name="navigation_summary">Alegeți metoda preferată de navigare</string>

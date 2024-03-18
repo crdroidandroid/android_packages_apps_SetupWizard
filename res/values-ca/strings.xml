@@ -79,9 +79,9 @@
     <string name="intro_restore_subtitle">Si teniu una còpia de seguretat del vostre darrer dispositiu <xliff:g id="name" example="crDroid">%s</xliff:g>, podeu restaurar-la aquí.</string>
     <string name="intro_restore_button">Restaura des de la còpia de seguretat</string>
     <string name="update_recovery_title">Actualització del recuperador del Lineage</string>
-    <string name="update_recovery_description">Actualitza el recuperador del Lineage en el primer inici posterior a cada actualització.</string>
+    <string name="update_recovery_description">Actualitza el recuperador del crDroid en el primer inici posterior a cada actualització.</string>
     <string name="update_recovery_warning">La recuperació s\'actualitzarà tan bon punt hàgiu acabat la configuració. Si voleu mantenir-lo intacte, desactiveu aquesta funció.</string>
-    <string name="update_recovery_setting">Actualitza el recuperador del Lineage juntament amb el sistema operatiu</string>
+    <string name="update_recovery_setting">Actualitza el recuperador del crDroid juntament amb el sistema operatiu</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navegació</string>
     <string name="navigation_summary">Trieu el mètode de navegació preferit</string>

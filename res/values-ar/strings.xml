@@ -75,9 +75,9 @@
     <string name="intro_restore_title">استعادة التطبيقات والبيانات</string>
     <string name="intro_restore_button">استعادة من نسخة احتياطية</string>
     <string name="update_recovery_title">تحديث وضع الاسترداد (recovery)</string>
-    <string name="update_recovery_description">تحديث Lineage Recovery عند أول تشغيل بعد كل تحديث.</string>
+    <string name="update_recovery_description">تحديث crDroid Recovery عند أول تشغيل بعد كل تحديث.</string>
     <string name="update_recovery_warning">سيُحدث وضع الاسترداد بمجرد الانتهاء من الإعداد. إذا كنت ترغب في الحفاظ على وضع الاسترداد الحالي، قم بتعطيل هذه الميزة.</string>
-    <string name="update_recovery_setting">تحديث Lineage Recovery إلى جانب نظام التشغيل</string>
+    <string name="update_recovery_setting">تحديث crDroid Recovery إلى جانب نظام التشغيل</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">التنقل</string>
     <string name="navigation_summary">اختر طريقة التنقل المفضلة</string>

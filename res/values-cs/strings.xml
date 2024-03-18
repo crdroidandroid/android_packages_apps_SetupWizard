@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Obnovit aplikace a\u00a0data</string>
     <string name="intro_restore_subtitle">Jestliže máte zálohu z předešlého <xliff:g id="name" example="crDroid">%s</xliff:g> zařízení, můžete ji obnovit zde.</string>
     <string name="intro_restore_button">Obnovit ze zálohy</string>
-    <string name="update_recovery_title">Aktualizovat Lineage recovery</string>
-    <string name="update_recovery_description">Aktualizace Lineage recovery při prvním spuštění po každé aktualizaci</string>
+    <string name="update_recovery_title">Aktualizovat crDroid recovery</string>
+    <string name="update_recovery_description">Aktualizace crDroid recovery při prvním spuštění po každé aktualizaci</string>
     <string name="update_recovery_warning">Oddíl recovery bude aktualizován ihned poté, co dokončíte nastavení. Vypněte tuto funkci, jestliže si přejete ponechat oddíl nezměněný.</string>
-    <string name="update_recovery_setting">Aktualizovat Lineage recovery společně s OS</string>
+    <string name="update_recovery_setting">Aktualizovat crDroid recovery společně s OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigace</string>
     <string name="navigation_summary">Zvolte preferovanou metodu navigace</string>

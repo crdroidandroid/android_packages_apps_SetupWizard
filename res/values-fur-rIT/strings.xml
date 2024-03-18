@@ -79,9 +79,9 @@
     <string name="intro_restore_subtitle">Se tu âs un backup di un altri dispositîf cun <xliff:g id="name" example="crDroid">%s</xliff:g>, tu puedis ripristinâlu cumò.</string>
     <string name="intro_restore_button">Ripristine dal backup</string>
     <string name="update_recovery_title">Inzorne Recovery di Lineage</string>
-    <string name="update_recovery_description">Al inzorne il Recovery di Lineage al prin inviament sucessîf di ogni inzornament.</string>
+    <string name="update_recovery_description">Al inzorne il Recovery di crDroid al prin inviament sucessîf di ogni inzornament.</string>
     <string name="update_recovery_warning">Recovery al vignarà inzornât a pene che tu finissis la configurazion. Se tu desideris tignîlu intat, disative cheste funzionalitât.</string>
-    <string name="update_recovery_setting">Inzorne il Recovery di Lineage adun cul SO</string>
+    <string name="update_recovery_setting">Inzorne il Recovery di crDroid adun cul SO</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigazion</string>
     <string name="navigation_summary">Sielç il metodi di navigazion preferît</string>

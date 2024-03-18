@@ -76,10 +76,10 @@
     <string name="lockscreen_setup_screen_lock_setup">Beállítás</string>
     <string name="intro_restore_title">Alkalmazások és adatok visszaállítása</string>
     <string name="intro_restore_button">Visszaállítás biztonsági mentésből</string>
-    <string name="update_recovery_title">A Lineage Recovery frissítése</string>
-    <string name="update_recovery_description">Frissíti a Lineage Recovery-t minden frissítés utáni első indításkor.</string>
+    <string name="update_recovery_title">A crDroid Recovery frissítése</string>
+    <string name="update_recovery_description">Frissíti a crDroid Recovery-t minden frissítés utáni első indításkor.</string>
     <string name="update_recovery_warning">A Recovery frissítésre kerül, amint befejeződött a telepítést. Ha érintetlenül akarja hagyni, tiltsa le ezt a funkciót.</string>
-    <string name="update_recovery_setting">A Lineage Recovery frissítése az operációs rendszer mellett</string>
+    <string name="update_recovery_setting">A crDroid Recovery frissítése az operációs rendszer mellett</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigáció</string>
     <string name="navigation_summary">Itt választhatja ki a kívánt navigációs módot</string>

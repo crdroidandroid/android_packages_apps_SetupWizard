@@ -79,9 +79,9 @@
     <string name="intro_restore_subtitle">Se disponi di un backup di un altro telefono con <xliff:g id="name" example="crDroid">%s</xliff:g>, puoi ripristinarlo ora.</string>
     <string name="intro_restore_button">Ripristina dal backup</string>
     <string name="update_recovery_title">Aggiorna recovery Lineage</string>
-    <string name="update_recovery_description">Aggiorna la recovery Lineage al primo avvio successivo ad ogni aggiornamento.</string>
+    <string name="update_recovery_description">Aggiorna la recovery crDroid al primo avvio successivo ad ogni aggiornamento.</string>
     <string name="update_recovery_warning">La recovery verrà aggiornata non appena terminerai la configurazione. Se desideri mantenerla intatta, disabilita questa funzione.</string>
-    <string name="update_recovery_setting">Aggiorna la recovery Lineage insieme al sistema operativo</string>
+    <string name="update_recovery_setting">Aggiorna la recovery crDroid insieme al sistema operativo</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigazione</string>
     <string name="navigation_summary">Scegli il metodo di navigazione preferito</string>

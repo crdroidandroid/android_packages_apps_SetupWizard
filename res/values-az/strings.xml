@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Tətbiqləri və datanı bərpa et</string>
     <string name="intro_restore_subtitle">Son <xliff:g id="name" example="crDroid">%s</xliff:g> cihazınızda bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
     <string name="intro_restore_button">Nüsxədən bərpa et</string>
-    <string name="update_recovery_title">Lineage Geri qaytarma Rejimini Güncəllə</string>
-    <string name="update_recovery_description">Hər güncəlləmədən sonrakı ilk açılışda Lineage Geri qaytarma rejimini güncəlləyir.</string>
+    <string name="update_recovery_title">crDroid Geri qaytarma Rejimini Güncəllə</string>
+    <string name="update_recovery_description">Hər güncəlləmədən sonrakı ilk açılışda crDroid Geri qaytarma rejimini güncəlləyir.</string>
     <string name="update_recovery_warning">Quraşdırma bitən kimi Geri qaytarma rejimi güncəllənəcək. Sağlam qalmasını istəyirsinizsə, bu özəlliyi sıradan çıxardın.</string>
-    <string name="update_recovery_setting">ƏS ilə birgə Lineage Geri qaytarma rejimini də güncəllə</string>
+    <string name="update_recovery_setting">ƏS ilə birgə crDroid Geri qaytarma rejimini də güncəllə</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Hərəkət</string>
     <string name="navigation_summary">Tərcih edilən naviqasiya üsulunu seçin</string>

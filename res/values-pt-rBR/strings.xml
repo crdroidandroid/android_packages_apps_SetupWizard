@@ -69,7 +69,7 @@
     <string name="lockscreen_setup_title" product="tablet">Proteja o seu tablet</string>
     <string name="lockscreen_setup_summary"><b>Proteger este dispositivo</b> e pedir PIN, padrão ou senha para desbloquear a tela</string>
     <string name="lockscreen_setup_screen_lock_setup">Configurar</string>
-    <string name="update_recovery_title">Atualizar Lineage Recovery</string>
+    <string name="update_recovery_title">Atualizar crDroid Recovery</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navegação</string>
     <string name="gesture_navigation">Navegação por gestos</string>

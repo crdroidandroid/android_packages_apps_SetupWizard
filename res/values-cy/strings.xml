@@ -76,10 +76,10 @@
     <string name="lockscreen_setup_screen_lock_setup">Gosod</string>
     <string name="intro_restore_title">Adfer apiau a data</string>
     <string name="intro_restore_button">Adfer o gopi wrth gefn</string>
-    <string name="update_recovery_title">Diweddaru Modd Adfer Lineage </string>
-    <string name="update_recovery_description">Mae\'n diweddaru Lineage Recovery wrth y cychwyn cyntaf wedi pob diweddariad.</string>
+    <string name="update_recovery_title">Diweddaru Modd Adfer crDroid </string>
+    <string name="update_recovery_description">Mae\'n diweddaru crDroid Recovery wrth y cychwyn cyntaf wedi pob diweddariad.</string>
     <string name="update_recovery_warning">Caiff Recovery ei ddiweddaru yn syth ar ôl cwblhau\'r gosod. Os hoffet ti ei gadw\'n gyfan, analluoga\'r nodwedd hon.</string>
-    <string name="update_recovery_setting">Diweddaru Lineage Recovery ochr yn ochr â\'r OS</string>
+    <string name="update_recovery_setting">Diweddaru crDroid Recovery ochr yn ochr â\'r OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Llywio</string>
     <string name="navigation_summary">Dewisa pa ddull llywio sydd well gennyt</string>

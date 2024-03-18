@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Herstel apps en gegevens</string>
     <string name="intro_restore_subtitle">Als u een back-up heeft van uw laatste <xliff:g id="name" example="crDroid">%s</xliff:g> apparaat, kunt u deze hier herstellen.</string>
     <string name="intro_restore_button">Backup terugzetten</string>
-    <string name="update_recovery_title">Lineage Recovery bijwerken</string>
-    <string name="update_recovery_description">Lineage Recovery updaten bij de eerste start na elke update</string>
+    <string name="update_recovery_title">crDroid Recovery bijwerken</string>
+    <string name="update_recovery_description">crDroid Recovery updaten bij de eerste start na elke update</string>
     <string name="update_recovery_warning">Recovery zal worden bijgewerkt zodra u de installatie hebt voltooid. Als u dit intact wilt houden, schakelt u deze functie uit.</string>
-    <string name="update_recovery_setting">Update Lineage Recovery naast het besturingssysteem</string>
+    <string name="update_recovery_setting">Update crDroid Recovery naast het besturingssysteem</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigatie</string>
     <string name="navigation_summary">Kies de voorkeurs navigatie methode</string>

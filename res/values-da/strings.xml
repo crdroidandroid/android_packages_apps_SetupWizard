@@ -76,10 +76,10 @@
     <string name="lockscreen_setup_screen_lock_setup">Opsætning</string>
     <string name="intro_restore_title">Gendan apps og data</string>
     <string name="intro_restore_button">Gendan fra backup</string>
-    <string name="update_recovery_title">Opdater Lineage Genddanelse</string>
-    <string name="update_recovery_description">Opdateringer Lineage Recovery ved første opstart efter hver opdatering.</string>
+    <string name="update_recovery_title">Opdater crDroid Genddanelse</string>
+    <string name="update_recovery_description">Opdateringer crDroid Recovery ved første opstart efter hver opdatering.</string>
     <string name="update_recovery_warning">Gendannelse vil blive opdateret, så snart du er færdig med opsætningen. Hvis du ønsker at holde det intakt, skal du deaktivere denne funktion.</string>
-    <string name="update_recovery_setting">Opdater Lineage Recovery sammen med OS</string>
+    <string name="update_recovery_setting">Opdater crDroid Recovery sammen med OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigation</string>
     <string name="navigation_summary">Vælg foretrukken navigationsmetode</string>

@@ -66,7 +66,7 @@
     <string name="intro_restore_title">Restauración d\'aplicaciones y datos</string>
     <string name="intro_restore_subtitle">Si tienes dalguna copia de seguranza de <xliff:g id="name" example="crDroid">%s</xliff:g> pal preséu, pues restaurala equí.</string>
     <string name="update_recovery_title">Anovar el recovery de Lineage</string>
-    <string name="update_recovery_description">Anueva\'l recovery de Lineage nel primer arrinque de cada anovamientu.</string>
+    <string name="update_recovery_description">Anueva\'l recovery de crDroid nel primer arrinque de cada anovamientu.</string>
     <string name="update_recovery_warning">El recovery anuévase namás que fine la configuración. Si nun lu quies tocar, desactiva esta función.</string>
     <string name="update_recovery_setting">Anovar el recovery xunto con crDroid</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>

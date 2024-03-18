@@ -78,10 +78,10 @@
     <string name="intro_restore_title">恢復應用程式和資料</string>
     <string name="intro_restore_subtitle">如果您之前使用 <xliff:g id="name" example="crDroid">%s</xliff:g> 設備並有進行備份，您現在可以在這裡將它還原。</string>
     <string name="intro_restore_button">從備份還原</string>
-    <string name="update_recovery_title">更新 Lineage Recovery</string>
-    <string name="update_recovery_description">每次更新後，在第一次啟動時更新 Lineage Recovery。</string>
+    <string name="update_recovery_title">更新 crDroid Recovery</string>
+    <string name="update_recovery_description">每次更新後，在第一次啟動時更新 crDroid Recovery。</string>
     <string name="update_recovery_warning">一旦安裝完成，Recovery 就會更新。如果您希望保持原樣，請停用此功能。</string>
-    <string name="update_recovery_setting">與系統一起更新 Lineage Recovery</string>
+    <string name="update_recovery_setting">與系統一起更新 crDroid Recovery</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">導航欄</string>
     <string name="navigation_summary">選擇首選的導航方式</string>

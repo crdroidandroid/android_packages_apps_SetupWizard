@@ -59,6 +59,6 @@
     <string name="settings_lockscreen_setup_details">Kuidas soovite ekraani lukustada?</string>
     <string name="intro_restore_title">Taasta rakendused ja andmed</string>
     <string name="intro_restore_button">Taasta varundusest</string>
-    <string name="update_recovery_title">Uuenda Lineage Recoveryt</string>
-    <string name="update_recovery_setting">Uuenda Lineage Recoveryt koos OSiga</string>
+    <string name="update_recovery_title">Uuenda crDroid Recoveryt</string>
+    <string name="update_recovery_setting">Uuenda crDroid Recoveryt koos OSiga</string>
 </resources>

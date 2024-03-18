@@ -79,9 +79,9 @@
     <string name="intro_restore_subtitle">Si vous avez une sauvegarde de votre dernier appareil <xliff:g id="name" example="crDroid">%s</xliff:g>, vous pouvez la restaurer ici.</string>
     <string name="intro_restore_button">Restaurer depuis une sauvegarde</string>
     <string name="update_recovery_title">Mettre à jour la récupération de Lineage</string>
-    <string name="update_recovery_description">Met à jour Lineage Recovery au premier démarrage après chaque mise à jour.</string>
+    <string name="update_recovery_description">Met à jour crDroid Recovery au premier démarrage après chaque mise à jour.</string>
     <string name="update_recovery_warning">La récupération sera mise à jour dès que vous aurez terminé la configuration. Si vous souhaitez la garder intacte, veuillez désactiver cette fonctionnalité.</string>
-    <string name="update_recovery_setting">Mettre à jour Lineage Recovery en même temps que le système d\'exploitation</string>
+    <string name="update_recovery_setting">Mettre à jour crDroid Recovery en même temps que le système d\'exploitation</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navigation</string>
     <string name="navigation_summary">Choisir la méthode de navigation préférée</string>

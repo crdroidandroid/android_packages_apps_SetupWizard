@@ -69,9 +69,9 @@
     <string name="lockscreen_setup_screen_lock_setup">Налаштувати</string>
     <string name="intro_restore_title">Відновіть застосунки й дані</string>
     <string name="update_recovery_title">Оновлювати режим відновлення Lineage</string>
-    <string name="update_recovery_description">Оновлює режим відновлення Lineage за першого запуску після кожного оновлення.</string>
+    <string name="update_recovery_description">Оновлює режим відновлення crDroid за першого запуску після кожного оновлення.</string>
     <string name="update_recovery_warning">Режим відновлення оновиться, щойно ви завершите налаштування. Якщо ви хочете зберегти наявний режим оновлення, вимкніть цю функцію.</string>
-    <string name="update_recovery_setting">Оновлювати режим відновлення Lineage разом з ОС</string>
+    <string name="update_recovery_setting">Оновлювати режим відновлення crDroid разом з ОС</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Навігація</string>
     <string name="navigation_summary">Оберіть бажаний спосіб навігації</string>

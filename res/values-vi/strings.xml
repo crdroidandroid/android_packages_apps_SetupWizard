@@ -78,10 +78,10 @@
     <string name="intro_restore_title">Khôi phục Sao lưu</string>
     <string name="intro_restore_subtitle">Nếu bạn có bản sao lưu từ thiết bị <xliff:g id="name" example="crDroid">%s</xliff:g> gần đây nhất của mình, bạn có thể khôi phục nó tại đây.</string>
     <string name="intro_restore_button">Khôi phục từ bản sao lưu</string>
-    <string name="update_recovery_title">Cập nhật Lineage Recovery</string>
-    <string name="update_recovery_description">Cập nhật Lineage Recovery khi bật máy lần đầu sau mỗi bản cập nhật.</string>
+    <string name="update_recovery_title">Cập nhật crDroid Recovery</string>
+    <string name="update_recovery_description">Cập nhật crDroid Recovery khi bật máy lần đầu sau mỗi bản cập nhật.</string>
     <string name="update_recovery_warning">Recovery sẽ được cập nhật sau khi bạn hoàn thành cài đặt. Nếu bạn muốn giữ nguyên, hãy tắt tính năng này.</string>
-    <string name="update_recovery_setting">Cập nhật Lineage Recovery song song với hệ điều hành</string>
+    <string name="update_recovery_setting">Cập nhật crDroid Recovery song song với hệ điều hành</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Điều hướng</string>
     <string name="navigation_summary">Chọn phương pháp điều hướng ưa thích</string>
