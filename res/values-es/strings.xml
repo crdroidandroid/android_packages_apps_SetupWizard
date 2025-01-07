@@ -78,10 +78,10 @@ limitations under the License.
     <string name="intro_restore_title">Restaurar aplicaciones y datos</string>
     <string name="intro_restore_subtitle">Si tienes una copia de seguridad de tu último dispositivo <xliff:g id="name" example="crDroid">%s</xliff:g> , puedes restaurarla aquí.</string>
     <string name="intro_restore_button">Restaurar desde copia de seguridad</string>
-    <string name="update_recovery_title">Actualizar el modo de recuperación de Lineage</string>
-    <string name="update_recovery_description">Actualiza el modo de recuperación de Lineage en el primer arranque posterior a cada actualización.</string>
+    <string name="update_recovery_title">Actualizar el modo de recuperación de crDroid</string>
+    <string name="update_recovery_description">Actualiza el modo de recuperación de crDroid en el primer arranque posterior a cada actualización.</string>
     <string name="update_recovery_warning">El modo de recuperación se actualizará tan pronto como finalice la configuración. Si deseas mantenerlo intacto, desactiva esta función.</string>
-    <string name="update_recovery_setting">Actualizar el modo de recuperación de Lineage junto con el sistema operativo</string>
+    <string name="update_recovery_setting">Actualizar el modo de recuperación de crDroid junto con el sistema operativo</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Navegación</string>
     <string name="navigation_summary">Elegir método de navegación preferido</string>
