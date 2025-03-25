@@ -5,7 +5,6 @@
 
 package org.lineageos.setupwizard;
 
-import static android.view.WindowManagerPolicyConstants.NAV_BAR_MODE_2BUTTON_OVERLAY;
 import static android.view.WindowManagerPolicyConstants.NAV_BAR_MODE_3BUTTON_OVERLAY;
 import static android.view.WindowManagerPolicyConstants.NAV_BAR_MODE_GESTURAL_OVERLAY;
 
@@ -63,11 +62,6 @@ public class NavigationSettingsActivity extends BaseSetupWizardActivity {
             available--;
         }
 
-        if (!SetupWizardUtils.isPackageInstalled(this, NAV_BAR_MODE_2BUTTON_OVERLAY)) {
-            findViewById(R.id.radio_two_button).setVisibility(View.GONE);
-            available--;
-        }
-
         if (!SetupWizardUtils.isPackageInstalled(this, NAV_BAR_MODE_3BUTTON_OVERLAY)) {
             findViewById(R.id.radio_sw_keys).setVisibility(View.GONE);
             available--;
@@ -93,11 +87,6 @@ public class NavigationSettingsActivity extends BaseSetupWizardActivity {
                     navigationIllustration
                             .setAnimation(R.raw.lottie_system_nav_fully_gestural);
                     revealHintCheckbox();
-                    break;
-                case R.id.radio_two_button:
-                    mSelection = NAV_BAR_MODE_2BUTTON_OVERLAY;
-                    navigationIllustration.setAnimation(R.raw.lottie_system_nav_2_button);
-                    hideHintCheckBox();
                     break;
                 case R.id.radio_sw_keys:
                     mSelection = NAV_BAR_MODE_3BUTTON_OVERLAY;
