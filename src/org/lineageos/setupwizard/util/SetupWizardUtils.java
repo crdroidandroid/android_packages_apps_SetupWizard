@@ -50,13 +50,13 @@ import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 
+import lineageos.providers.LineageSettings;
+
 import org.lineageos.setupwizard.BaseSetupWizardActivity;
 import org.lineageos.setupwizard.SetupWizardApp;
 
 import java.io.File;
 import java.util.List;
-
-import lineageos.providers.LineageSettings;
 
 public class SetupWizardUtils {
 

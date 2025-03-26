@@ -15,7 +15,6 @@ import static org.lineageos.setupwizard.SetupWizardApp.EXTRA_PREFS_SHOW_SKIP;
 import static org.lineageos.setupwizard.SetupWizardApp.EXTRA_PREFS_SHOW_SKIP_TV;
 
 import android.content.Intent;
-import android.os.Bundle;
 
 import org.lineageos.setupwizard.util.SetupWizardUtils;
 
