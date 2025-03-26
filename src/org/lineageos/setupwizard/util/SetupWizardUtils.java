@@ -50,6 +50,7 @@ import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 
+import lineageos.hardware.LineageHardwareManager;
 import lineageos.providers.LineageSettings;
 
 import org.lineageos.setupwizard.BaseSetupWizardActivity;
@@ -320,6 +321,9 @@ public class SetupWizardUtils {
             LineageSettings.System.putIntForUser(context.getContentResolver(),
                     LineageSettings.System.FORCE_SHOW_NAVBAR, enabled ? 1 : 0,
                     UserHandle.USER_CURRENT);
+
+            final LineageHardwareManager hardware = LineageHardwareManager.getInstance(context);
+            hardware.set(LineageHardwareManager.FEATURE_KEY_DISABLE, enabled);
         }
     }
 
