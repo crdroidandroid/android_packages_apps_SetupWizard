@@ -85,7 +85,7 @@ public class FinishActivity extends BaseSetupWizardActivity {
         });
 
         if (sFinishState != FinishState.NONE) {
-            hideNextButton();
+            disableNavigation();
         }
 
         switch (sFinishState) {
@@ -102,6 +102,11 @@ public class FinishActivity extends BaseSetupWizardActivity {
                 Log.w(TAG, "Unexpected onCreate state " + sFinishState);
                 break;
         }
+    }
+
+    private void disableNavigation() {
+        hideNextButton();
+        SystemBarHelper.setBackButtonVisible(getWindow(), false);
     }
 
     private void disableActivityTransitions() {
@@ -168,7 +173,7 @@ public class FinishActivity extends BaseSetupWizardActivity {
     private void startFinishSequence() {
         sFinishState = FinishState.ANIMATING;
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LOCKED);
-        hideNextButton();
+        disableNavigation();
 
         // Begin outro animation.
         if (mRootView.isAttachedToWindow()) {
