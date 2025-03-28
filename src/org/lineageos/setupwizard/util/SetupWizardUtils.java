@@ -46,6 +46,8 @@ import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 
+import com.android.internal.util.crdroid.Utils;
+
 import lineageos.hardware.LineageHardwareManager;
 import lineageos.providers.LineageSettings;
 
@@ -311,11 +313,14 @@ public class SetupWizardUtils {
 
     private static void writeDisableNavkeysOption(Context context, boolean enabled) {
         final boolean virtualKeysEnabled = LineageSettings.System.getIntForUser(
-                context.getContentResolver(), LineageSettings.System.FORCE_SHOW_NAVBAR, 0,
-                UserHandle.USER_CURRENT) != 0;
+                context.getContentResolver(), LineageSettings.System.FORCE_SHOW_NAVBAR,
+                Utils.hasNavbarByDefault(context) ? 1 : 0, UserHandle.USER_CURRENT) != 0;
         if (enabled != virtualKeysEnabled) {
             LineageSettings.System.putIntForUser(context.getContentResolver(),
                     LineageSettings.System.FORCE_SHOW_NAVBAR, enabled ? 1 : 0,
+                    UserHandle.USER_CURRENT);
+            Settings.System.putIntForUser(context.getContentResolver(),
+                    Settings.System.HARDWARE_KEYS_DISABLE, enabled ? 1 : 0,
                     UserHandle.USER_CURRENT);
 
             final LineageHardwareManager hardware = LineageHardwareManager.getInstance(context);
