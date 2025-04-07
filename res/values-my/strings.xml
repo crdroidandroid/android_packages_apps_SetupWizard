@@ -34,7 +34,6 @@
     <string name="setup_navigation">လမ်းညွှန်</string>
     <string name="navigation_summary">သင်အားသာသော လမ်းညွှန်မှုနည်းလမ်းကို ရွေးချယ်ပါ</string>
     <string name="gesture_navigation">လက်ဟန်ဖြင့် လမ်းညွှန်ခြင်း</string>
-    <string name="two_button_navigation">ခလုတ် ၂ ခု ဖြင့် လမ်းညွှန်ခြင်း</string>
     <string name="navbar_navigation">ခလုတ် ၃ ခု ဖြင့် လမ်းညွှန်ခြင်း</string>
     <string name="hide_gesture_hint">လက်ဟန်ဖြင့် လမ်းညွှန်ခြင်းအကူကိုပိတ်မည်</string>
 </resources>

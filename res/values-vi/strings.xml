@@ -46,7 +46,6 @@
     <string name="setup_navigation">Điều hướng</string>
     <string name="navigation_summary">Chọn phương pháp điều hướng ưa thích</string>
     <string name="gesture_navigation">Điều hướng bằng cử chỉ</string>
-    <string name="two_button_navigation">Điều hướng 2 nút</string>
     <string name="navbar_navigation">Điều hướng 3 nút</string>
     <string name="hide_gesture_hint">Ẩn gợi ý điều hướng cử chỉ</string>
     <string name="setup_theme">Giao diện</string>

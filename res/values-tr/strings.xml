@@ -44,7 +44,6 @@
     <string name="setup_navigation">Gezinme</string>
     <string name="navigation_summary">Tercih edilen gezinme yöntemini seçin</string>
     <string name="gesture_navigation">Hareketle gezinme</string>
-    <string name="two_button_navigation">2 düğmeli gezinme</string>
     <string name="navbar_navigation">3 düğmeli gezinme</string>
     <string name="hide_gesture_hint">Hareketle gezinme ipucunu gizle</string>
 </resources>

@@ -44,7 +44,6 @@
     <string name="setup_navigation">Llywio</string>
     <string name="navigation_summary">Dewisa pa ddull llywio sydd well gennyt</string>
     <string name="gesture_navigation">Llywio ag ystumiau</string>
-    <string name="two_button_navigation">Llywio 2-fotwm</string>
     <string name="navbar_navigation">Llywio 3-botwm</string>
     <string name="hide_gesture_hint">Cuddio hintiau llywio ag ystumiau</string>
 </resources>

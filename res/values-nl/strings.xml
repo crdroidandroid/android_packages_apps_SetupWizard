@@ -46,7 +46,6 @@
     <string name="setup_navigation">Navigatie</string>
     <string name="navigation_summary">Kies de voorkeurs navigatie methode</string>
     <string name="gesture_navigation">Navigatie met gebaren</string>
-    <string name="two_button_navigation">Navigatie met twee knoppen</string>
     <string name="navbar_navigation">Navigatie met drie knoppen</string>
     <string name="hide_gesture_hint">Verberg gebaren navigatiehint</string>
     <string name="setup_theme">Thema</string>

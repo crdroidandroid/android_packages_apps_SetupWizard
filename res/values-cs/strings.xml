@@ -46,7 +46,6 @@
     <string name="setup_navigation">Navigace</string>
     <string name="navigation_summary">Zvolte preferovanou metodu navigace</string>
     <string name="gesture_navigation">Ovládání gesty</string>
-    <string name="two_button_navigation">Navigace dvěma tlačítky</string>
     <string name="navbar_navigation">Navigace třemi tlačítky</string>
     <string name="hide_gesture_hint">Skrýt napovědy navigačních gest</string>
     <string name="setup_theme">Motiv</string>

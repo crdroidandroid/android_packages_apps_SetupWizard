@@ -46,7 +46,6 @@
     <string name="setup_navigation">Flakk</string>
     <string name="navigation_summary">Veldu þá aðferð við flakk sem þú vilt nota</string>
     <string name="gesture_navigation">Bendingastjórnun</string>
-    <string name="two_button_navigation">Tveggja-hnappa stjórnun</string>
     <string name="navbar_navigation">Þriggja-hnappa stjórnun</string>
     <string name="hide_gesture_hint">Fela ábendingu við bendingaflakk</string>
     <string name="setup_theme">Þema</string>

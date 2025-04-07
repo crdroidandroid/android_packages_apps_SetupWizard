@@ -46,7 +46,6 @@
     <string name="setup_navigation">ナビゲーション</string>
     <string name="navigation_summary">優先するナビゲーション方法を選択してください</string>
     <string name="gesture_navigation">ジェスチャー ナビゲーション</string>
-    <string name="two_button_navigation">2 ボタン ナビゲーション</string>
     <string name="navbar_navigation">3 ボタン ナビゲーション</string>
     <string name="hide_gesture_hint">ナビゲーションヒントを隠す</string>
     <string name="setup_theme">テーマ</string>

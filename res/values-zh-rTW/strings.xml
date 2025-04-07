@@ -46,7 +46,6 @@
     <string name="setup_navigation">導航欄</string>
     <string name="navigation_summary">選擇首選的導航方式</string>
     <string name="gesture_navigation">手勢導航</string>
-    <string name="two_button_navigation">透過 2 個按鈕操作系統</string>
     <string name="navbar_navigation">透過 3 個按鈕操作系統</string>
     <string name="hide_gesture_hint">隱藏手勢導航條</string>
     <string name="setup_theme">佈景主題</string>

@@ -44,7 +44,6 @@
     <string name="setup_navigation">Navigation</string>
     <string name="navigation_summary">Vælg foretrukken navigationsmetode</string>
     <string name="gesture_navigation">Navigering med bevægelser</string>
-    <string name="two_button_navigation">Navigering med to knapper</string>
     <string name="navbar_navigation">Navigering med tre knapper</string>
     <string name="hide_gesture_hint">Skjul bevægelses navigerings hint</string>
 </resources>

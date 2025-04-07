@@ -46,7 +46,6 @@
     <string name="setup_navigation">Nawigacja w systemie</string>
     <string name="navigation_summary">Wybierz preferowaną metodę nawigacji w systemie</string>
     <string name="gesture_navigation">Nawigacja przy użyciu gestów</string>
-    <string name="two_button_navigation">Nawigacja przy użyciu dwóch przycisków</string>
     <string name="navbar_navigation">Nawigacja przy użyciu trzech przycisków</string>
     <string name="hide_gesture_hint">Ukryj podpowiedź dotyczącą nawigacji gestami</string>
     <string name="setup_theme">Motyw</string>

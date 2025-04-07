@@ -35,6 +35,5 @@
     <string name="setup_navigation">ন্যাভিগেশন</string>
     <string name="navigation_summary">আপনার পছন্দের ন্যাভিগেশন মাধ্যম বেছে নিন</string>
     <string name="gesture_navigation">জেশচার ন্যাভিগেশন</string>
-    <string name="two_button_navigation">দ্বি-বোতাম ন্যাভিগেশন</string>
     <string name="navbar_navigation">ত্রি-বোতাম ন্যাভিগেশন</string>
 </resources>

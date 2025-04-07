@@ -46,7 +46,6 @@
     <string name="setup_navigation">სამოძრაო</string>
     <string name="navigation_summary">აირჩიეთ სასურველი ხერხი სამოძრაოდ</string>
     <string name="gesture_navigation">ჟესტებით სამოძრაო</string>
-    <string name="two_button_navigation">2-ღილაკიანი სამოძრაო</string>
     <string name="navbar_navigation">3-ღილაკიანი სამოძრაო</string>
     <string name="hide_gesture_hint">ჟესტებით სამოძრაო მანიშნებლის დამალვა</string>
     <string name="setup_theme">იერსახე</string>

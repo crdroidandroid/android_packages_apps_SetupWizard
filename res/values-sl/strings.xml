@@ -46,7 +46,6 @@
     <string name="setup_navigation">Krmarjenje</string>
     <string name="navigation_summary">Izberite željeni način krmarjenja</string>
     <string name="gesture_navigation">Krmarjenje s potezami</string>
-    <string name="two_button_navigation">Krmarjenje z dvema gumboma</string>
     <string name="navbar_navigation">Krmarjenje s tremi gumbi</string>
     <string name="hide_gesture_hint">Skrij namig krmarjenja</string>
     <string name="setup_theme">Tema</string>

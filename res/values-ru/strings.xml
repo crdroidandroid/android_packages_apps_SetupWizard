@@ -46,7 +46,6 @@
     <string name="setup_navigation">Навигация</string>
     <string name="navigation_summary">Выберите предпочтительный метод навигации</string>
     <string name="gesture_navigation">Навигация жестами</string>
-    <string name="two_button_navigation">Навигация двумя кнопками</string>
     <string name="navbar_navigation">Навигация тремя кнопками</string>
     <string name="hide_gesture_hint">Скрыть подсказку навигации жестами</string>
     <string name="setup_theme">Тема</string>

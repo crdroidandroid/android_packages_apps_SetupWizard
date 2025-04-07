@@ -46,7 +46,6 @@
     <string name="setup_navigation">Lundrimi</string>
     <string name="navigation_summary">Zgjidhni metodën e preferuar të navigimit</string>
     <string name="gesture_navigation">Navigimi me gjeste</string>
-    <string name="two_button_navigation">Navigimi me 2 butona</string>
     <string name="navbar_navigation">Navigimi me 3 butona</string>
     <string name="hide_gesture_hint">Fshih këshillën e navigimit gjestik</string>
     <string name="setup_theme">Tema</string>

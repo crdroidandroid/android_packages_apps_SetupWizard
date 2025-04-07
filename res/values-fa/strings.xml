@@ -46,7 +46,6 @@
     <string name="setup_navigation">پیمایش</string>
     <string name="navigation_summary">روش پیمایش ترجیحی را انتخاب کنید</string>
     <string name="gesture_navigation">پیمایش اشاره‌ای</string>
-    <string name="two_button_navigation">پیمایش ۲ دکمه‌ای</string>
     <string name="navbar_navigation">پیمایش ۳ دکمه‌ای</string>
     <string name="hide_gesture_hint">پنهان کردن نوار اشاره ناوبری</string>
     <string name="setup_theme">پوسته</string>

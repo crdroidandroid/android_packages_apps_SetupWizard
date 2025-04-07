@@ -43,7 +43,6 @@
     <string name="setup_navigation">Ориентиране</string>
     <string name="navigation_summary">Изберете предпочитан начин за ориентиране</string>
     <string name="gesture_navigation">Жестово ориентиране</string>
-    <string name="two_button_navigation">Ориентиране с два бутона</string>
     <string name="navbar_navigation">Ориентиране с три бутона</string>
     <string name="hide_gesture_hint">Скрий подсказката за жестово ориентиране</string>
 </resources>

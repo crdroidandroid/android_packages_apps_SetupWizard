@@ -46,7 +46,6 @@
     <string name="setup_navigation">Navigare</string>
     <string name="navigation_summary">Alegeți metoda preferată de navigare</string>
     <string name="gesture_navigation">Navigare prin gesturi</string>
-    <string name="two_button_navigation">Navigare cu 2 butoane</string>
     <string name="navbar_navigation">Navigare cu 3 butoane</string>
     <string name="hide_gesture_hint">Ascunde indiciile navigării gestuale</string>
     <string name="setup_theme">Temă</string>

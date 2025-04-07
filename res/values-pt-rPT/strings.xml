@@ -46,7 +46,6 @@
     <string name="setup_navigation">Navegação</string>
     <string name="navigation_summary">Escolher método de navegação preferido</string>
     <string name="gesture_navigation">Navegação por gestos</string>
-    <string name="two_button_navigation">Navegação com 2 botões</string>
     <string name="navbar_navigation">Navegação com 3 botões</string>
     <string name="hide_gesture_hint">Ocultar dica de navegação por gestos</string>
     <string name="setup_theme">Tema</string>

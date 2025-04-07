@@ -42,7 +42,6 @@
     <string name="setup_navigation">التنقل</string>
     <string name="navigation_summary">اختر طريقة التنقل المفضلة</string>
     <string name="gesture_navigation">التنقل بالإيماءات</string>
-    <string name="two_button_navigation">التنقل باستخدام زرّين</string>
     <string name="navbar_navigation">التنقل باستخدام ثلاثة أزرار</string>
     <string name="hide_gesture_hint">إخفاء تلميحات التنقل الإيمائي</string>
 </resources>

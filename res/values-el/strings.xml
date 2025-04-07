@@ -46,7 +46,6 @@
     <string name="setup_navigation">Πλοήγηση</string>
     <string name="navigation_summary">Επιλογή προτιμώμενης μεθόδου πλοήγησης</string>
     <string name="gesture_navigation">Πλοήγηση με χειρονομίες</string>
-    <string name="two_button_navigation">Πλοήγηση με δύο πλήκτρα</string>
     <string name="navbar_navigation">Πλοήγηση με τρία πλήκτρα</string>
     <string name="hide_gesture_hint">Απόκρυψη υποδείξεων πλοήγησης με χειρονομίες</string>
     <string name="setup_theme">Θέμα</string>

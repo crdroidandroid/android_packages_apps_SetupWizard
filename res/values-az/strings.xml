@@ -46,7 +46,6 @@
     <string name="setup_navigation">Hərəkət</string>
     <string name="navigation_summary">Tərcih edilən naviqasiya üsulunu seçin</string>
     <string name="gesture_navigation">Jest hərəkəti</string>
-    <string name="two_button_navigation">2 düyməli hərəkət</string>
     <string name="navbar_navigation">3 düyməli hərəkət</string>
     <string name="hide_gesture_hint">Jestlə hərəkət məsləhətini gizlət</string>
     <string name="setup_theme">Tema</string>

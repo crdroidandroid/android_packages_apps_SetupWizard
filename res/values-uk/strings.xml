@@ -40,7 +40,6 @@
     <string name="setup_navigation">Навігація</string>
     <string name="navigation_summary">Оберіть бажаний спосіб навігації</string>
     <string name="gesture_navigation">Навігація жестами</string>
-    <string name="two_button_navigation">Навігація двома кнопками</string>
     <string name="navbar_navigation">Навігація трьома кнопками</string>
     <string name="hide_gesture_hint">Ховати панель навігації жестами</string>
 </resources>

@@ -46,7 +46,6 @@
     <string name="setup_navigation">Navigazion</string>
     <string name="navigation_summary">Sielç il metodi di navigazion preferît</string>
     <string name="gesture_navigation">Navigazion a mots</string>
-    <string name="two_button_navigation">Navigazion a 2 botons</string>
     <string name="navbar_navigation">Navigazion a 3 botons</string>
     <string name="hide_gesture_hint">Plate i sugjeriments pe navigazion a mots</string>
     <string name="setup_theme">Teme</string>
