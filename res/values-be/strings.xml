@@ -12,13 +12,11 @@
     <string name="setup_welcome_message">Вітаем у <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
     <string name="emergency_call">Экстранны выклік</string>
     <string name="setup_locale">Мова</string>
-    <string name="setup_sim_missing">SIM-картка адсутнічае</string>
     <string name="setup_datetime">Дата і час</string>
     <string name="setup_current_date">Бягучая дата</string>
     <string name="setup_current_time">Бягучы час</string>
     <string name="intro_restore_title">Аднавіць праграмы і даныя</string>
     <string name="setup_location">Службы месцазнаходжання</string>
-    <string name="location_access_summary"><b>Дазволіць праграмам, якія запыталі ваш дазвол</b> выкарыстоўваць інфармацыю вашага месцазнаходжання. Гэта можа ўключаць ваша бягучыя і папярэднія месцазнаходжанні.</string>
     <string name="location_agps_access_summary">Калі месцазнаходжанне ўключана, <b>спампуйце даныя дапамогі спадарожнікаў з інтэрнэту</b>, якія могуць значна падвысіць хуткасць запуску GPS.</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="services_os_nav_keys_label"><b>Выкарыстоўваць кнопкі навігацыі на экране</b> замест апаратных.</string>
