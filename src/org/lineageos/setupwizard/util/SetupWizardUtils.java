@@ -1,6 +1,6 @@
 /*
  * SPDX-FileCopyrightText: 2013 The CyanogenMod Project
- * SPDX-FileCopyrightText: 2017-2024 The LineageOS Project
+ * SPDX-FileCopyrightText: 2017-2025 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -12,9 +12,6 @@ import static android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_ENABLED;
 import static android.content.pm.PackageManager.DONT_KILL_APP;
 import static android.content.pm.PackageManager.GET_ACTIVITIES;
 import static android.telephony.TelephonyManager.PHONE_TYPE_GSM;
-
-import static com.android.internal.telephony.PhoneConstants.LTE_ON_CDMA_TRUE;
-import static com.android.internal.telephony.PhoneConstants.LTE_ON_CDMA_UNKNOWN;
 
 import static com.google.android.setupcompat.util.ResultCodes.RESULT_SKIP;
 
@@ -44,7 +41,6 @@ import android.os.SystemProperties;
 import android.os.UserHandle;
 import android.os.UserManager;
 import android.provider.Settings;
-import android.sysprop.TelephonyProperties;
 import android.telephony.SubscriptionInfo;
 import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
@@ -347,25 +343,12 @@ public class SetupWizardUtils {
                 if (simState != -1) {
                     final int subId = sub.getSubscriptionId();
                     final TelephonyManager subTm = tm.createForSubscriptionId(subId);
-                    if (isGSM(subTm) || isLteOnCdma(subTm, subId)) {
+                    if (subTm.getCurrentPhoneType() == PHONE_TYPE_GSM) {
                         return false;
                     }
                 }
             }
         }
         return true;
-    }
-
-    private static boolean isGSM(TelephonyManager subTelephonyManager) {
-        return subTelephonyManager.getCurrentPhoneType() == PHONE_TYPE_GSM;
-    }
-
-    private static boolean isLteOnCdma(TelephonyManager subTelephonyManager, int subId) {
-        final int lteOnCdmaMode = subTelephonyManager.getLteOnCdmaMode(subId);
-        if (lteOnCdmaMode == LTE_ON_CDMA_UNKNOWN) {
-            return TelephonyProperties.lte_on_cdma_device().orElse(LTE_ON_CDMA_UNKNOWN)
-                    == LTE_ON_CDMA_TRUE;
-        }
-        return lteOnCdmaMode == LTE_ON_CDMA_TRUE;
     }
 }
