@@ -31,14 +31,13 @@
                 android:layout_height="0dp"
                 android:layout_weight="@dimen/tv_guidance_space_above" />
 
-            <com.airbnb.lottie.LottieAnimationView
+            <ImageView
                 android:id="@+id/brand_logo"
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/tv_welcome_logo_height"
                 android:adjustViewBounds="true"
-                app:lottie_autoPlay="true"
-                app:lottie_loop="true"
-                app:lottie_rawRes="@raw/lottie_welcome" />
+                android:scaleType="fitCenter"
+                android:src="@drawable/logo" />
 
             <TextView
                 android:id="@+id/welcome_title"
