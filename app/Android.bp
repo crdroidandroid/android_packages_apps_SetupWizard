@@ -28,7 +28,6 @@ android_app {
         "SettingsLib",
         "setupcompat",
         "setupdesign",
-        "setupdesign-lottie-animation-view",
         "SystemUISharedLib",
         "zxing-core",
         "org.lineageos.platform.internal",

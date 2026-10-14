@@ -7,7 +7,7 @@ SPDX-PackageSupplier = "The LineageOS Project"
 SPDX-PackageDownloadLocation = "https://github.com/LineageOS/android_packages_apps_SetupWizard"
 
 [[annotations]]
-path = [".github/workflows/**", ".gitignore", "app/.gitignore", ".pre-commit-config.yaml", "app/src/main/res/raw/lottie_welcome.json"]
+path = [".github/workflows/**", ".gitignore", "app/.gitignore", ".pre-commit-config.yaml"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "The LineageOS Project"
 SPDX-License-Identifier = "Apache-2.0"
